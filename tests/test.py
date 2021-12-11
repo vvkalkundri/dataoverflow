@@ -6,7 +6,7 @@ from csv import reader, writer
 import os
 import sys
 sys.path.append(os.path.realpath("code/"))
-from script import covid_vaccine
+from src.script import covid_vaccine
 
 
 def read_output_file(output_file):

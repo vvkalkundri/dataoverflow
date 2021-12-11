@@ -1,0 +1,2353 @@
+Gujarat,Surat,A,M,699
+Gujarat,Surat,A,F,674
+Gujarat,Surat,C,M,226
+Gujarat,Surat,C,F,197
+Gujarat,Surat,B,M,460
+Gujarat,Surat,B,F,464
+Gujarat,Ahmedabad,A,F,869
+Gujarat,Ahmedabad,A,M,932
+Gujarat,Ahmedabad,C,M,261
+Gujarat,Ahmedabad,C,F,295
+Gujarat,Ahmedabad,B,F,592
+Gujarat,Ahmedabad,B,M,603
+Gujarat,Porbandar,A,F,33
+Gujarat,Porbandar,A,M,32
+Gujarat,Porbandar,B,M,19
+Gujarat,Porbandar,B,F,20
+Gujarat,Porbandar,C,F,15
+Gujarat,Porbandar,C,M,7
+Gujarat,Vadodara,A,M,234
+Gujarat,Vadodara,A,F,237
+Gujarat,Vadodara,C,F,85
+Gujarat,Vadodara,C,M,86
+Gujarat,Vadodara,B,M,173
+Gujarat,Vadodara,B,F,175
+Gujarat,Bhavnagar,A,M,66
+Gujarat,Bhavnagar,A,F,56
+Gujarat,Bhavnagar,B,M,45
+Gujarat,Bhavnagar,B,F,56
+Gujarat,Bhavnagar,C,F,18
+Gujarat,Bhavnagar,C,M,23
+Gujarat,Jamnagar,A,F,59
+Gujarat,Jamnagar,A,M,62
+Gujarat,Jamnagar,C,F,23
+Gujarat,Jamnagar,C,M,19
+Gujarat,Jamnagar,B,F,40
+Gujarat,Jamnagar,B,M,46
+Gujarat,Rajkot,A,M,159
+Gujarat,Rajkot,A,F,142
+Gujarat,Rajkot,B,M,113
+Gujarat,Rajkot,B,F,106
+Gujarat,Rajkot,C,F,49
+Gujarat,Rajkot,C,M,55
+Gujarat,Mahesana,A,F,33
+Gujarat,Mahesana,A,M,27
+Gujarat,Mahesana,B,F,7
+Gujarat,Mahesana,B,M,15
+Gujarat,Mahesana,C,M,10
+Gujarat,Mahesana,C,F,4
+Gujarat,Khambhat,A,M,10
+Gujarat,Khambhat,A,F,19
+Gujarat,Khambhat,B,F,10
+Gujarat,Khambhat,B,M,4
+Gujarat,Khambhat,C,M,4
+Gujarat,Bhuj,A,F,46
+Gujarat,Bhuj,A,M,33
+Gujarat,Bhuj,B,F,26
+Gujarat,Bhuj,B,M,30
+Gujarat,Bhuj,C,F,11
+Gujarat,Bhuj,C,M,13
+Gujarat,Ghandinagar,A,F,29
+Gujarat,Ghandinagar,A,M,26
+Gujarat,Ghandinagar,B,M,24
+Gujarat,Ghandinagar,B,F,20
+Gujarat,Ghandinagar,C,F,8
+Gujarat,Ghandinagar,C,M,5
+Gujarat,Navsari,A,M,20
+Gujarat,Navsari,A,F,21
+Gujarat,Navsari,B,F,18
+Gujarat,Navsari,B,M,10
+Gujarat,Navsari,C,F,8
+Gujarat,Navsari,C,M,3
+Gujarat,Jasdan,B,F,4
+Gujarat,Jasdan,B,M,4
+Gujarat,Jasdan,A,F,9
+Gujarat,Jasdan,A,M,1
+Gujarat,Jasdan,C,F,3
+Gujarat,Jasdan,C,M,1
+Gujarat,Nandod,A,M,10
+Gujarat,Nandod,A,F,4
+Gujarat,Nandod,B,F,7
+Gujarat,Nandod,B,M,3
+Gujarat,Nandod,C,F,3
+Gujarat,Nandod,C,M,2
+Gujarat,Godhra,A,M,21
+Gujarat,Godhra,A,F,15
+Gujarat,Godhra,B,M,11
+Gujarat,Godhra,B,F,10
+Gujarat,Godhra,C,F,4
+Gujarat,Godhra,C,M,5
+Gujarat,Khed Brahma,A,F,4
+Gujarat,Khed Brahma,A,M,2
+Gujarat,Khed Brahma,B,F,1
+Gujarat,Khed Brahma,B,M,1
+Gujarat,Khed Brahma,C,M,2
+Gujarat,Sihor,A,F,7
+Gujarat,Sihor,A,M,3
+Gujarat,Sihor,B,M,2
+Gujarat,Sihor,B,F,3
+Gujarat,Sihor,C,M,3
+Gujarat,Sihor,C,F,1
+Gujarat,Daman,B,M,7
+Gujarat,Daman,B,F,5
+Gujarat,Daman,A,F,3
+Gujarat,Daman,A,M,4
+Gujarat,Daman,C,M,4
+Gujarat,Daman,C,F,1
+Gujarat,Dholka,B,M,3
+Gujarat,Dholka,B,F,5
+Gujarat,Dholka,A,F,6
+Gujarat,Dholka,A,M,4
+Gujarat,Dholka,C,F,4
+Gujarat,Dholka,C,M,3
+Gujarat,Dwarka,B,F,1
+Gujarat,Dwarka,B,M,1
+Gujarat,Dwarka,A,F,5
+Gujarat,Dwarka,A,M,7
+Delhi,Delhi,B,M,2474
+Delhi,Delhi,B,F,2428
+Delhi,Delhi,A,F,3505
+Delhi,Delhi,A,M,3621
+Delhi,Delhi,C,F,1115
+Delhi,Delhi,C,M,1047
+Delhi,New Delhi,A,M,16
+Delhi,New Delhi,A,F,21
+Delhi,New Delhi,B,M,9
+Delhi,New Delhi,B,F,9
+Delhi,New Delhi,C,F,5
+Delhi,New Delhi,C,M,5
+Rajasthan,Jaipur,A,M,373
+Rajasthan,Jaipur,A,F,374
+Rajasthan,Jaipur,C,F,115
+Rajasthan,Jaipur,C,M,97
+Rajasthan,Jaipur,B,F,278
+Rajasthan,Jaipur,B,M,260
+Rajasthan,Bikaner,C,F,26
+Rajasthan,Bikaner,C,M,19
+Rajasthan,Bikaner,A,F,72
+Rajasthan,Bikaner,A,M,67
+Rajasthan,Bikaner,B,M,44
+Rajasthan,Bikaner,B,F,42
+Rajasthan,Bhilwara,A,M,39
+Rajasthan,Bhilwara,A,F,51
+Rajasthan,Bhilwara,B,F,40
+Rajasthan,Bhilwara,B,M,33
+Rajasthan,Bhilwara,C,M,20
+Rajasthan,Bhilwara,C,F,13
+Rajasthan,Sikar,C,F,12
+Rajasthan,Sikar,C,M,11
+Rajasthan,Sikar,B,M,37
+Rajasthan,Sikar,B,F,27
+Rajasthan,Sikar,A,M,45
+Rajasthan,Sikar,A,F,71
+Rajasthan,Jodhpur,B,F,67
+Rajasthan,Jodhpur,B,M,77
+Rajasthan,Jodhpur,C,F,32
+Rajasthan,Jodhpur,C,M,38
+Rajasthan,Jodhpur,A,M,91
+Rajasthan,Jodhpur,A,F,112
+Rajasthan,Ajmer,A,F,64
+Rajasthan,Ajmer,A,M,80
+Rajasthan,Ajmer,B,M,46
+Rajasthan,Ajmer,B,F,53
+Rajasthan,Ajmer,C,M,26
+Rajasthan,Ajmer,C,F,22
+Rajasthan,Pali,A,M,33
+Rajasthan,Pali,A,F,22
+Rajasthan,Pali,B,F,17
+Rajasthan,Pali,B,M,26
+Rajasthan,Pali,C,F,5
+Rajasthan,Pali,C,M,7
+Rajasthan,Kota,A,M,136
+Rajasthan,Kota,A,F,108
+Rajasthan,Kota,B,M,79
+Rajasthan,Kota,B,F,82
+Rajasthan,Kota,C,F,42
+Rajasthan,Kota,C,M,35
+Rajasthan,Alwar,B,M,32
+Rajasthan,Alwar,B,F,43
+Rajasthan,Alwar,C,F,16
+Rajasthan,Alwar,C,M,15
+Rajasthan,Alwar,A,M,47
+Rajasthan,Alwar,A,F,52
+Rajasthan,Bharatpur,A,M,35
+Rajasthan,Bharatpur,A,F,37
+Rajasthan,Bharatpur,B,F,20
+Rajasthan,Bharatpur,B,M,21
+Rajasthan,Bharatpur,C,F,11
+Rajasthan,Bharatpur,C,M,11
+Rajasthan,Udaipur,B,F,37
+Rajasthan,Udaipur,B,M,51
+Rajasthan,Udaipur,A,F,63
+Rajasthan,Udaipur,A,M,54
+Rajasthan,Udaipur,C,F,19
+Rajasthan,Udaipur,C,M,16
+Rajasthan,Jaisalmer,A,M,5
+Rajasthan,Jaisalmer,A,F,4
+Rajasthan,Jaisalmer,B,F,6
+Rajasthan,Jaisalmer,B,M,3
+Rajasthan,Jalor,A,F,10
+Rajasthan,Jalor,A,M,4
+Rajasthan,Jalor,B,M,3
+Rajasthan,Jalor,B,F,2
+Rajasthan,Jalor,C,M,2
+Rajasthan,Jalor,C,F,1
+Rajasthan,Chittaurgarh,A,F,14
+Rajasthan,Chittaurgarh,A,M,19
+Rajasthan,Chittaurgarh,C,M,4
+Rajasthan,Chittaurgarh,C,F,5
+Rajasthan,Chittaurgarh,B,M,15
+Rajasthan,Chittaurgarh,B,F,9
+Rajasthan,Tonk,A,M,19
+Rajasthan,Tonk,A,F,19
+Rajasthan,Tonk,C,F,4
+Rajasthan,Tonk,C,M,4
+Rajasthan,Tonk,B,F,11
+Rajasthan,Tonk,B,M,24
+Rajasthan,Abu,A,M,5
+Rajasthan,Abu,A,F,2
+Rajasthan,Abu,B,M,1
+Rajasthan,Abu,C,F,1
+Uttar Pradesh,Saharanpur,B,M,46
+Uttar Pradesh,Saharanpur,B,F,49
+Uttar Pradesh,Saharanpur,A,F,87
+Uttar Pradesh,Saharanpur,A,M,88
+Uttar Pradesh,Saharanpur,C,F,28
+Uttar Pradesh,Saharanpur,C,M,30
+Uttar Pradesh,Bareilly,A,M,115
+Uttar Pradesh,Bareilly,A,F,123
+Uttar Pradesh,Bareilly,B,M,79
+Uttar Pradesh,Bareilly,B,F,74
+Uttar Pradesh,Bareilly,C,M,38
+Uttar Pradesh,Bareilly,C,F,45
+Uttar Pradesh,Cawnpore,B,F,231
+Uttar Pradesh,Cawnpore,B,M,236
+Uttar Pradesh,Cawnpore,A,M,318
+Uttar Pradesh,Cawnpore,A,F,339
+Uttar Pradesh,Cawnpore,C,F,102
+Uttar Pradesh,Cawnpore,C,M,104
+Uttar Pradesh,Aligarh,A,M,122
+Uttar Pradesh,Aligarh,A,F,143
+Uttar Pradesh,Aligarh,B,M,91
+Uttar Pradesh,Aligarh,B,F,102
+Uttar Pradesh,Aligarh,C,M,44
+Uttar Pradesh,Aligarh,C,F,42
+Uttar Pradesh,Lucknow,C,M,137
+Uttar Pradesh,Lucknow,C,F,101
+Uttar Pradesh,Lucknow,B,M,286
+Uttar Pradesh,Lucknow,B,F,270
+Uttar Pradesh,Lucknow,A,M,416
+Uttar Pradesh,Lucknow,A,F,411
+Uttar Pradesh,Hapur,C,M,7
+Uttar Pradesh,Hapur,C,F,9
+Uttar Pradesh,Hapur,A,M,25
+Uttar Pradesh,Hapur,A,F,29
+Uttar Pradesh,Hapur,B,F,22
+Uttar Pradesh,Hapur,B,M,21
+Uttar Pradesh,Rampur,A,M,36
+Uttar Pradesh,Rampur,A,F,44
+Uttar Pradesh,Rampur,B,M,23
+Uttar Pradesh,Rampur,B,F,21
+Uttar Pradesh,Rampur,C,M,9
+Uttar Pradesh,Rampur,C,F,11
+Uttar Pradesh,Agra,A,F,215
+Uttar Pradesh,Agra,A,M,189
+Uttar Pradesh,Agra,B,M,139
+Uttar Pradesh,Agra,B,F,114
+Uttar Pradesh,Agra,C,M,70
+Uttar Pradesh,Agra,C,F,54
+Uttar Pradesh,Mathura,A,M,45
+Uttar Pradesh,Mathura,A,F,29
+Uttar Pradesh,Mathura,C,M,16
+Uttar Pradesh,Mathura,C,F,15
+Uttar Pradesh,Mathura,B,M,31
+Uttar Pradesh,Mathura,B,F,22
+Uttar Pradesh,Varanasi,A,M,151
+Uttar Pradesh,Varanasi,A,F,144
+Uttar Pradesh,Varanasi,C,F,37
+Uttar Pradesh,Varanasi,C,M,39
+Uttar Pradesh,Varanasi,B,F,88
+Uttar Pradesh,Varanasi,B,M,80
+Uttar Pradesh,Mirzapur,A,M,308
+Uttar Pradesh,Mirzapur,A,F,294
+Uttar Pradesh,Mirzapur,B,M,222
+Uttar Pradesh,Mirzapur,B,F,193
+Uttar Pradesh,Mirzapur,C,M,79
+Uttar Pradesh,Mirzapur,C,F,96
+Uttar Pradesh,Moradabad,B,M,60
+Uttar Pradesh,Moradabad,B,F,64
+Uttar Pradesh,Moradabad,A,M,122
+Uttar Pradesh,Moradabad,A,F,92
+Uttar Pradesh,Moradabad,C,M,34
+Uttar Pradesh,Moradabad,C,F,34
+Uttar Pradesh,Ghaziabad,A,F,264
+Uttar Pradesh,Ghaziabad,A,M,285
+Uttar Pradesh,Ghaziabad,C,F,85
+Uttar Pradesh,Ghaziabad,C,M,90
+Uttar Pradesh,Ghaziabad,B,F,188
+Uttar Pradesh,Ghaziabad,B,M,189
+Uttar Pradesh,Gorakhpur,A,F,74
+Uttar Pradesh,Gorakhpur,A,M,74
+Uttar Pradesh,Gorakhpur,C,F,20
+Uttar Pradesh,Gorakhpur,C,M,24
+Uttar Pradesh,Gorakhpur,B,M,52
+Uttar Pradesh,Gorakhpur,B,F,37
+Uttar Pradesh,Sambhal,A,F,25
+Uttar Pradesh,Sambhal,A,M,28
+Uttar Pradesh,Sambhal,B,M,14
+Uttar Pradesh,Sambhal,B,F,23
+Uttar Pradesh,Sambhal,C,M,6
+Uttar Pradesh,Sambhal,C,F,5
+Uttar Pradesh,Meerut,A,F,141
+Uttar Pradesh,Meerut,A,M,153
+Uttar Pradesh,Meerut,C,F,49
+Uttar Pradesh,Meerut,C,M,45
+Uttar Pradesh,Meerut,B,F,88
+Uttar Pradesh,Meerut,B,M,125
+Uttar Pradesh,Jhansi,A,F,65
+Uttar Pradesh,Jhansi,A,M,48
+Uttar Pradesh,Jhansi,B,F,56
+Uttar Pradesh,Jhansi,B,M,37
+Uttar Pradesh,Jhansi,C,F,23
+Uttar Pradesh,Jhansi,C,M,24
+Uttar Pradesh,Allahabad,A,M,154
+Uttar Pradesh,Allahabad,A,F,150
+Uttar Pradesh,Allahabad,B,M,103
+Uttar Pradesh,Allahabad,B,F,93
+Uttar Pradesh,Allahabad,C,M,51
+Uttar Pradesh,Allahabad,C,F,53
+Uttar Pradesh,Etawah,C,M,17
+Uttar Pradesh,Etawah,C,F,10
+Uttar Pradesh,Etawah,A,F,19
+Uttar Pradesh,Etawah,A,M,30
+Uttar Pradesh,Etawah,B,M,23
+Uttar Pradesh,Etawah,B,F,17
+Uttar Pradesh,Vrindavan,C,F,5
+Uttar Pradesh,Vrindavan,A,M,11
+Uttar Pradesh,Vrindavan,A,F,5
+Uttar Pradesh,Vrindavan,B,M,7
+Uttar Pradesh,Vrindavan,B,F,1
+Uttar Pradesh,Firozabad,B,M,25
+Uttar Pradesh,Firozabad,B,F,29
+Uttar Pradesh,Firozabad,A,F,39
+Uttar Pradesh,Firozabad,A,M,33
+Uttar Pradesh,Firozabad,C,M,11
+Uttar Pradesh,Firozabad,C,F,8
+Uttar Pradesh,Fatehpur,A,M,38
+Uttar Pradesh,Fatehpur,A,F,23
+Uttar Pradesh,Fatehpur,B,M,17
+Uttar Pradesh,Fatehpur,B,F,12
+Uttar Pradesh,Fatehpur,C,F,3
+Uttar Pradesh,Fatehpur,C,M,8
+Uttar Pradesh,Fyzabad,A,M,22
+Uttar Pradesh,Fyzabad,A,F,13
+Uttar Pradesh,Fyzabad,C,M,7
+Uttar Pradesh,Fyzabad,C,F,1
+Uttar Pradesh,Fyzabad,B,F,12
+Uttar Pradesh,Fyzabad,B,M,7
+Uttar Pradesh,Hathras,B,F,13
+Uttar Pradesh,Hathras,B,M,10
+Uttar Pradesh,Hathras,A,F,13
+Uttar Pradesh,Hathras,A,M,15
+Uttar Pradesh,Hathras,C,F,2
+Uttar Pradesh,Hathras,C,M,4
+Uttar Pradesh,Sitalpur,B,M,13
+Uttar Pradesh,Sitalpur,B,F,13
+Uttar Pradesh,Sitalpur,C,F,6
+Uttar Pradesh,Sitalpur,C,M,6
+Uttar Pradesh,Sitalpur,A,F,20
+Uttar Pradesh,Sitalpur,A,M,21
+Uttar Pradesh,Pilibhit,B,M,18
+Uttar Pradesh,Pilibhit,B,F,8
+Uttar Pradesh,Pilibhit,C,F,11
+Uttar Pradesh,Pilibhit,C,M,9
+Uttar Pradesh,Pilibhit,A,F,10
+Uttar Pradesh,Pilibhit,A,M,12
+Uttar Pradesh,Shahjanpur,A,M,32
+Uttar Pradesh,Shahjanpur,A,F,29
+Uttar Pradesh,Shahjanpur,B,M,26
+Uttar Pradesh,Shahjanpur,B,F,21
+Uttar Pradesh,Shahjanpur,C,M,14
+Uttar Pradesh,Shahjanpur,C,F,9
+Uttar Pradesh,Budaun,A,F,24
+Uttar Pradesh,Budaun,A,M,16
+Uttar Pradesh,Budaun,B,M,13
+Uttar Pradesh,Budaun,B,F,8
+Uttar Pradesh,Budaun,C,F,3
+Uttar Pradesh,Budaun,C,M,2
+Uttar Pradesh,Bulandshahr,C,F,7
+Uttar Pradesh,Bulandshahr,C,M,5
+Uttar Pradesh,Bulandshahr,B,M,18
+Uttar Pradesh,Bulandshahr,B,F,21
+Uttar Pradesh,Bulandshahr,A,F,21
+Uttar Pradesh,Bulandshahr,A,M,27
+Uttar Pradesh,Jaunpur,A,M,26
+Uttar Pradesh,Jaunpur,A,F,30
+Uttar Pradesh,Jaunpur,B,F,14
+Uttar Pradesh,Jaunpur,B,M,12
+Uttar Pradesh,Jaunpur,C,M,8
+Uttar Pradesh,Jaunpur,C,F,12
+Uttar Pradesh,Muzaffarnagar,A,M,45
+Uttar Pradesh,Muzaffarnagar,A,F,52
+Uttar Pradesh,Muzaffarnagar,B,F,35
+Uttar Pradesh,Muzaffarnagar,B,M,31
+Uttar Pradesh,Muzaffarnagar,C,M,15
+Uttar Pradesh,Muzaffarnagar,C,F,14
+Uttar Pradesh,Kairana,B,M,2
+Uttar Pradesh,Kairana,B,F,3
+Uttar Pradesh,Kairana,A,M,2
+Uttar Pradesh,Kairana,A,F,7
+Uttar Pradesh,Kairana,C,M,2
+Uttar Pradesh,Bahraigh,B,F,18
+Uttar Pradesh,Bahraigh,B,M,8
+Uttar Pradesh,Bahraigh,A,F,18
+Uttar Pradesh,Bahraigh,A,M,18
+Uttar Pradesh,Bahraigh,C,F,16
+Uttar Pradesh,Bahraigh,C,M,10
+Uttar Pradesh,Fatehpur Sikri,B,F,3
+Uttar Pradesh,Fatehpur Sikri,B,M,3
+Uttar Pradesh,Fatehpur Sikri,A,M,4
+Uttar Pradesh,Fatehpur Sikri,A,F,2
+Uttar Pradesh,Fatehpur Sikri,C,M,1
+Karnataka,Hubli,A,M,109
+Karnataka,Hubli,A,F,96
+Karnataka,Hubli,B,F,68
+Karnataka,Hubli,B,M,81
+Karnataka,Hubli,C,F,38
+Karnataka,Hubli,C,M,32
+Karnataka,Bangalore,A,F,1663
+Karnataka,Bangalore,A,M,1642
+Karnataka,Bangalore,B,F,1178
+Karnataka,Bangalore,B,M,1061
+Karnataka,Bangalore,C,F,479
+Karnataka,Bangalore,C,M,474
+Karnataka,Bellary,A,M,60
+Karnataka,Bellary,A,F,43
+Karnataka,Bellary,B,M,43
+Karnataka,Bellary,B,F,38
+Karnataka,Bellary,C,F,12
+Karnataka,Bellary,C,M,17
+Karnataka,Mysore,A,F,107
+Karnataka,Mysore,A,M,138
+Karnataka,Mysore,B,M,89
+Karnataka,Mysore,B,F,88
+Karnataka,Mysore,C,M,29
+Karnataka,Mysore,C,F,32
+Karnataka,Kolar,B,M,12
+Karnataka,Kolar,B,F,15
+Karnataka,Kolar,C,M,3
+Karnataka,Kolar,C,F,4
+Karnataka,Kolar,A,M,15
+Karnataka,Kolar,A,F,13
+Karnataka,Belgaum,B,F,41
+Karnataka,Belgaum,B,M,38
+Karnataka,Belgaum,C,M,17
+Karnataka,Belgaum,C,F,29
+Karnataka,Belgaum,A,M,59
+Karnataka,Belgaum,A,F,56
+Karnataka,Gulbarga,C,M,22
+Karnataka,Gulbarga,C,F,15
+Karnataka,Gulbarga,A,M,80
+Karnataka,Gulbarga,A,F,39
+Karnataka,Gulbarga,B,M,37
+Karnataka,Gulbarga,B,F,36
+Karnataka,Mangalore,B,M,55
+Karnataka,Mangalore,B,F,53
+Karnataka,Mangalore,A,M,79
+Karnataka,Mangalore,A,F,65
+Karnataka,Mangalore,C,M,22
+Karnataka,Mangalore,C,F,21
+Karnataka,Shimoga,C,M,28
+Karnataka,Shimoga,C,F,18
+Karnataka,Shimoga,A,F,81
+Karnataka,Shimoga,A,M,84
+Karnataka,Shimoga,B,F,56
+Karnataka,Shimoga,B,M,53
+Karnataka,Tumkur,B,M,31
+Karnataka,Tumkur,B,F,32
+Karnataka,Tumkur,A,M,52
+Karnataka,Tumkur,A,F,43
+Karnataka,Tumkur,C,F,12
+Karnataka,Tumkur,C,M,23
+Karnataka,Davangere,C,F,20
+Karnataka,Davangere,C,M,25
+Karnataka,Davangere,B,M,49
+Karnataka,Davangere,B,F,53
+Karnataka,Davangere,A,M,61
+Karnataka,Davangere,A,F,69
+Karnataka,Bidar,B,M,25
+Karnataka,Bidar,B,F,31
+Karnataka,Bidar,A,F,31
+Karnataka,Bidar,A,M,33
+Karnataka,Bidar,C,F,7
+Karnataka,Bidar,C,M,12
+Karnataka,Raichur,A,M,36
+Karnataka,Raichur,A,F,35
+Karnataka,Raichur,B,F,23
+Karnataka,Raichur,B,M,26
+Karnataka,Raichur,C,F,5
+Karnataka,Raichur,C,M,10
+Karnataka,Hassan,C,M,2
+Karnataka,Hassan,C,F,6
+Karnataka,Hassan,A,F,18
+Karnataka,Hassan,A,M,16
+Karnataka,Hassan,B,M,16
+Karnataka,Hassan,B,F,11
+Karnataka,Hospet,A,F,37
+Karnataka,Hospet,A,M,37
+Karnataka,Hospet,C,F,8
+Karnataka,Hospet,C,M,15
+Karnataka,Hospet,B,F,19
+Karnataka,Hospet,B,M,26
+Karnataka,Mandya,A,M,19
+Karnataka,Mandya,A,F,11
+Karnataka,Mandya,C,F,6
+Karnataka,Mandya,C,M,1
+Karnataka,Mandya,B,M,14
+Karnataka,Mandya,B,F,11
+Karnataka,Udipi,B,M,13
+Karnataka,Udipi,B,F,11
+Karnataka,Udipi,C,F,6
+Karnataka,Udipi,C,M,5
+Karnataka,Udipi,A,F,12
+Karnataka,Udipi,A,M,17
+Karnataka,Bijapur,A,F,31
+Karnataka,Bijapur,A,M,42
+Karnataka,Bijapur,B,M,18
+Karnataka,Bijapur,B,F,17
+Karnataka,Bijapur,C,M,11
+Karnataka,Bijapur,C,F,13
+Karnataka,Channarayapatna,A,M,5
+Karnataka,Channarayapatna,A,F,6
+Karnataka,Channarayapatna,B,M,1
+Karnataka,Channarayapatna,B,F,2
+Karnataka,Shrirangapattana,A,F,6
+Karnataka,Shrirangapattana,A,M,1
+Karnataka,Shrirangapattana,C,M,7
+Karnataka,Shrirangapattana,B,M,3
+Karnataka,Shrirangapattana,B,F,3
+Tamil Nadu,Chennai,A,F,1343
+Tamil Nadu,Chennai,A,M,1372
+Tamil Nadu,Chennai,B,F,883
+Tamil Nadu,Chennai,B,M,964
+Tamil Nadu,Chennai,C,F,394
+Tamil Nadu,Chennai,C,M,388
+Tamil Nadu,Tiruppur,A,M,64
+Tamil Nadu,Tiruppur,A,F,78
+Tamil Nadu,Tiruppur,B,F,47
+Tamil Nadu,Tiruppur,B,M,48
+Tamil Nadu,Tiruppur,C,F,20
+Tamil Nadu,Tiruppur,C,M,24
+Tamil Nadu,Trichinopoly,B,F,91
+Tamil Nadu,Trichinopoly,B,M,81
+Tamil Nadu,Trichinopoly,A,F,125
+Tamil Nadu,Trichinopoly,A,M,93
+Tamil Nadu,Trichinopoly,C,M,38
+Tamil Nadu,Trichinopoly,C,F,23
+Tamil Nadu,Erode,A,F,23
+Tamil Nadu,Erode,A,M,22
+Tamil Nadu,Erode,C,F,3
+Tamil Nadu,Erode,C,M,5
+Tamil Nadu,Erode,B,F,12
+Tamil Nadu,Erode,B,M,18
+Tamil Nadu,Madurai,B,F,126
+Tamil Nadu,Madurai,B,M,142
+Tamil Nadu,Madurai,A,M,177
+Tamil Nadu,Madurai,A,F,213
+Tamil Nadu,Madurai,C,M,54
+Tamil Nadu,Madurai,C,F,55
+Tamil Nadu,Coimbatore,C,F,33
+Tamil Nadu,Coimbatore,C,M,41
+Tamil Nadu,Coimbatore,B,F,75
+Tamil Nadu,Coimbatore,B,M,77
+Tamil Nadu,Coimbatore,A,M,120
+Tamil Nadu,Coimbatore,A,F,116
+Tamil Nadu,Rajapalaiyam,B,F,32
+Tamil Nadu,Rajapalaiyam,B,M,33
+Tamil Nadu,Rajapalaiyam,C,M,6
+Tamil Nadu,Rajapalaiyam,C,F,17
+Tamil Nadu,Rajapalaiyam,A,M,41
+Tamil Nadu,Rajapalaiyam,A,F,51
+Tamil Nadu,Tinnevelly,B,M,47
+Tamil Nadu,Tinnevelly,B,F,51
+Tamil Nadu,Tinnevelly,C,M,21
+Tamil Nadu,Tinnevelly,C,F,13
+Tamil Nadu,Tinnevelly,A,M,53
+Tamil Nadu,Tinnevelly,A,F,65
+Tamil Nadu,Salem,A,M,99
+Tamil Nadu,Salem,A,F,82
+Tamil Nadu,Salem,B,M,58
+Tamil Nadu,Salem,B,F,57
+Tamil Nadu,Salem,C,F,22
+Tamil Nadu,Salem,C,M,21
+Tamil Nadu,Cuddalore,B,M,9
+Tamil Nadu,Cuddalore,B,F,12
+Tamil Nadu,Cuddalore,C,M,8
+Tamil Nadu,Cuddalore,C,F,2
+Tamil Nadu,Cuddalore,A,M,17
+Tamil Nadu,Cuddalore,A,F,21
+Tamil Nadu,Nagercoil,A,M,32
+Tamil Nadu,Nagercoil,A,F,22
+Tamil Nadu,Nagercoil,B,M,19
+Tamil Nadu,Nagercoil,B,F,18
+Tamil Nadu,Nagercoil,C,F,8
+Tamil Nadu,Nagercoil,C,M,7
+Tamil Nadu,Vellore,B,F,15
+Tamil Nadu,Vellore,B,M,8
+Tamil Nadu,Vellore,A,F,18
+Tamil Nadu,Vellore,A,M,23
+Tamil Nadu,Vellore,C,F,4
+Tamil Nadu,Vellore,C,M,5
+Tamil Nadu,Conjeeveram,A,M,22
+Tamil Nadu,Conjeeveram,A,F,28
+Tamil Nadu,Conjeeveram,B,F,10
+Tamil Nadu,Conjeeveram,B,M,8
+Tamil Nadu,Conjeeveram,C,F,5
+Tamil Nadu,Conjeeveram,C,M,4
+Tamil Nadu,Negapatam,B,M,10
+Tamil Nadu,Negapatam,B,F,5
+Tamil Nadu,Negapatam,A,F,12
+Tamil Nadu,Negapatam,A,M,16
+Tamil Nadu,Negapatam,C,F,4
+Tamil Nadu,Tuticorin,C,M,8
+Tamil Nadu,Tuticorin,C,F,14
+Tamil Nadu,Tuticorin,B,M,38
+Tamil Nadu,Tuticorin,B,F,26
+Tamil Nadu,Tuticorin,A,F,55
+Tamil Nadu,Tuticorin,A,M,53
+Tamil Nadu,Dindigul,C,F,15
+Tamil Nadu,Dindigul,C,M,4
+Tamil Nadu,Dindigul,A,M,20
+Tamil Nadu,Dindigul,A,F,15
+Tamil Nadu,Dindigul,B,F,18
+Tamil Nadu,Dindigul,B,M,17
+Tamil Nadu,Tanjore,A,M,28
+Tamil Nadu,Tanjore,A,F,25
+Tamil Nadu,Tanjore,B,F,19
+Tamil Nadu,Tanjore,B,M,11
+Tamil Nadu,Tanjore,C,M,11
+Tamil Nadu,Tanjore,C,F,5
+Tamil Nadu,Karur,A,M,13
+Tamil Nadu,Karur,A,F,8
+Tamil Nadu,Karur,B,M,5
+Tamil Nadu,Karur,B,F,9
+Tamil Nadu,Karur,C,F,2
+Tamil Nadu,Tiruvannamalai,A,M,17
+Tamil Nadu,Tiruvannamalai,A,F,13
+Tamil Nadu,Tiruvannamalai,B,M,13
+Tamil Nadu,Tiruvannamalai,B,F,14
+Tamil Nadu,Tiruvannamalai,C,M,5
+Tamil Nadu,Tiruvannamalai,C,F,7
+Tamil Nadu,Valparai,B,F,12
+Tamil Nadu,Valparai,B,M,4
+Tamil Nadu,Valparai,A,F,8
+Tamil Nadu,Valparai,A,M,13
+Tamil Nadu,Valparai,C,F,4
+Tamil Nadu,Valparai,C,M,5
+Tamil Nadu,Ootacamund,B,M,8
+Tamil Nadu,Ootacamund,B,F,6
+Tamil Nadu,Ootacamund,A,F,8
+Tamil Nadu,Ootacamund,A,M,9
+Tamil Nadu,Ootacamund,C,F,2
+Tamil Nadu,Ootacamund,C,M,5
+Tamil Nadu,Kumbakonam,B,F,13
+Tamil Nadu,Kumbakonam,B,M,14
+Tamil Nadu,Kumbakonam,C,F,10
+Tamil Nadu,Kumbakonam,C,M,2
+Tamil Nadu,Kumbakonam,A,F,22
+Tamil Nadu,Kumbakonam,A,M,12
+Tamil Nadu,Rameswaram,B,M,4
+Tamil Nadu,Rameswaram,A,F,7
+Tamil Nadu,Rameswaram,A,M,11
+Tamil Nadu,Rameswaram,C,M,2
+Tamil Nadu,Rameswaram,C,F,1
+Tamil Nadu,Kodaikanal,A,M,3
+Tamil Nadu,Kodaikanal,A,F,2
+Tamil Nadu,Kodaikanal,B,F,4
+Tamil Nadu,Kodaikanal,B,M,4
+Tamil Nadu,Kodaikanal,C,F,2
+Tamil Nadu,Kodaikanal,C,M,1
+Maharashtra,Mumbai,A,M,2718
+Maharashtra,Mumbai,A,F,2831
+Maharashtra,Mumbai,B,F,1876
+Maharashtra,Mumbai,B,M,1937
+Maharashtra,Mumbai,C,M,887
+Maharashtra,Mumbai,C,F,905
+Maharashtra,Nagpur,B,M,191
+Maharashtra,Nagpur,B,F,193
+Maharashtra,Nagpur,A,M,303
+Maharashtra,Nagpur,A,F,292
+Maharashtra,Nagpur,C,F,91
+Maharashtra,Nagpur,C,M,100
+Maharashtra,Akola,B,F,39
+Maharashtra,Akola,B,M,43
+Maharashtra,Akola,A,M,57
+Maharashtra,Akola,A,F,41
+Maharashtra,Akola,C,F,13
+Maharashtra,Akola,C,M,12
+Maharashtra,Bhayandar,A,F,103
+Maharashtra,Bhayandar,A,M,90
+Maharashtra,Bhayandar,B,F,64
+Maharashtra,Bhayandar,B,M,71
+Maharashtra,Bhayandar,C,M,36
+Maharashtra,Bhayandar,C,F,34
+Maharashtra,Pune,B,M,610
+Maharashtra,Pune,B,F,626
+Maharashtra,Pune,A,M,996
+Maharashtra,Pune,A,F,873
+Maharashtra,Pune,C,F,250
+Maharashtra,Pune,C,M,277
+Maharashtra,Chinchvad,C,M,68
+Maharashtra,Chinchvad,C,F,50
+Maharashtra,Chinchvad,B,M,145
+Maharashtra,Chinchvad,B,F,135
+Maharashtra,Chinchvad,A,F,216
+Maharashtra,Chinchvad,A,M,244
+Maharashtra,Nanded,B,M,49
+Maharashtra,Nanded,B,F,46
+Maharashtra,Nanded,C,F,21
+Maharashtra,Nanded,C,M,26
+Maharashtra,Nanded,A,M,77
+Maharashtra,Nanded,A,F,71
+Maharashtra,Nasik,C,M,38
+Maharashtra,Nasik,C,F,67
+Maharashtra,Nasik,B,F,130
+Maharashtra,Nasik,B,M,124
+Maharashtra,Nasik,A,M,167
+Maharashtra,Nasik,A,F,181
+Maharashtra,Bhiwandi,C,M,38
+Maharashtra,Bhiwandi,C,F,47
+Maharashtra,Bhiwandi,A,F,141
+Maharashtra,Bhiwandi,A,M,138
+Maharashtra,Bhiwandi,B,F,90
+Maharashtra,Bhiwandi,B,M,83
+Maharashtra,Kalyan,B,F,152
+Maharashtra,Kalyan,B,M,134
+Maharashtra,Kalyan,A,F,220
+Maharashtra,Kalyan,A,M,190
+Maharashtra,Kalyan,C,F,62
+Maharashtra,Kalyan,C,M,61
+Maharashtra,Malegaon,B,M,58
+Maharashtra,Malegaon,B,F,69
+Maharashtra,Malegaon,A,F,70
+Maharashtra,Malegaon,A,M,80
+Maharashtra,Malegaon,C,F,27
+Maharashtra,Malegaon,C,M,20
+Maharashtra,Latur,A,F,49
+Maharashtra,Latur,A,M,50
+Maharashtra,Latur,C,M,17
+Maharashtra,Latur,C,F,16
+Maharashtra,Latur,B,M,38
+Maharashtra,Latur,B,F,25
+Maharashtra,Kolhapur,C,M,32
+Maharashtra,Kolhapur,C,F,29
+Maharashtra,Kolhapur,A,F,95
+Maharashtra,Kolhapur,A,M,95
+Maharashtra,Kolhapur,B,M,54
+Maharashtra,Kolhapur,B,F,64
+Maharashtra,Chanda,A,F,74
+Maharashtra,Chanda,A,M,65
+Maharashtra,Chanda,C,M,31
+Maharashtra,Chanda,C,F,25
+Maharashtra,Chanda,B,M,57
+Maharashtra,Chanda,B,F,47
+Maharashtra,Thane,B,F,106
+Maharashtra,Thane,B,M,85
+Maharashtra,Thane,A,M,165
+Maharashtra,Thane,A,F,137
+Maharashtra,Thane,C,M,57
+Maharashtra,Thane,C,F,48
+Maharashtra,Jalgaon,A,M,68
+Maharashtra,Jalgaon,A,F,56
+Maharashtra,Jalgaon,B,M,42
+Maharashtra,Jalgaon,B,F,39
+Maharashtra,Jalgaon,C,F,23
+Maharashtra,Jalgaon,C,M,11
+Maharashtra,Yavatmal,A,F,22
+Maharashtra,Yavatmal,A,M,18
+Maharashtra,Yavatmal,C,F,4
+Maharashtra,Yavatmal,C,M,3
+Maharashtra,Yavatmal,B,F,8
+Maharashtra,Yavatmal,B,M,10
+Maharashtra,Ulhasnagar,A,M,56
+Maharashtra,Ulhasnagar,A,F,63
+Maharashtra,Ulhasnagar,B,M,52
+Maharashtra,Ulhasnagar,B,F,55
+Maharashtra,Ulhasnagar,C,M,12
+Maharashtra,Ulhasnagar,C,F,20
+Maharashtra,Solapur,A,F,110
+Maharashtra,Solapur,A,M,116
+Maharashtra,Solapur,C,M,33
+Maharashtra,Solapur,C,F,27
+Maharashtra,Solapur,B,M,77
+Maharashtra,Solapur,B,F,82
+Maharashtra,Bhusaval,B,F,16
+Maharashtra,Bhusaval,B,M,14
+Maharashtra,Bhusaval,C,F,9
+Maharashtra,Bhusaval,C,M,11
+Maharashtra,Bhusaval,A,M,24
+Maharashtra,Bhusaval,A,F,26
+Maharashtra,Parbhani,C,F,13
+Maharashtra,Parbhani,C,M,21
+Maharashtra,Parbhani,A,F,40
+Maharashtra,Parbhani,A,M,66
+Maharashtra,Parbhani,B,F,21
+Maharashtra,Parbhani,B,M,28
+Maharashtra,Osmanabad,B,M,12
+Maharashtra,Osmanabad,B,F,6
+Maharashtra,Osmanabad,C,F,2
+Maharashtra,Osmanabad,C,M,4
+Maharashtra,Osmanabad,A,M,17
+Maharashtra,Osmanabad,A,F,16
+Maharashtra,Ahmadnagar,A,F,47
+Maharashtra,Ahmadnagar,A,M,37
+Maharashtra,Ahmadnagar,B,M,28
+Maharashtra,Ahmadnagar,B,F,31
+Maharashtra,Ahmadnagar,C,M,9
+Maharashtra,Ahmadnagar,C,F,11
+Maharashtra,Junnar,A,F,6
+Maharashtra,Junnar,A,M,2
+Maharashtra,Junnar,B,F,6
+Maharashtra,Junnar,B,M,3
+Maharashtra,Junnar,C,M,1
+Maharashtra,Junnar,C,F,1
+Maharashtra,Ichalkaranji,A,F,35
+Maharashtra,Ichalkaranji,A,M,34
+Maharashtra,Ichalkaranji,C,M,16
+Maharashtra,Ichalkaranji,C,F,14
+Maharashtra,Ichalkaranji,B,F,18
+Maharashtra,Ichalkaranji,B,M,19
+Maharashtra,Dhulia,A,F,70
+Maharashtra,Dhulia,A,M,63
+Maharashtra,Dhulia,B,M,44
+Maharashtra,Dhulia,B,F,48
+Maharashtra,Dhulia,C,M,20
+Maharashtra,Dhulia,C,F,21
+Maharashtra,Amravati,C,F,23
+Maharashtra,Amravati,C,M,24
+Maharashtra,Amravati,A,F,70
+Maharashtra,Amravati,A,M,67
+Maharashtra,Amravati,B,F,30
+Maharashtra,Amravati,B,M,56
+Maharashtra,Sangli,A,M,59
+Maharashtra,Sangli,A,F,46
+Maharashtra,Sangli,B,F,21
+Maharashtra,Sangli,B,M,35
+Maharashtra,Sangli,C,M,18
+Maharashtra,Sangli,C,F,10
+Maharashtra,Uran,B,M,5
+Maharashtra,Uran,A,F,3
+Maharashtra,Uran,A,M,2
+Maharashtra,Uran,C,F,3
+Maharashtra,Uran,C,M,1
+West Bengal,Kolkata,C,F,649
+West Bengal,Kolkata,C,M,626
+West Bengal,Kolkata,B,M,1417
+West Bengal,Kolkata,B,F,1398
+West Bengal,Kolkata,A,F,2115
+West Bengal,Kolkata,A,M,2098
+West Bengal,Raiganj,A,M,29
+West Bengal,Raiganj,A,F,24
+West Bengal,Raiganj,B,M,11
+West Bengal,Raiganj,B,F,24
+West Bengal,Raiganj,C,M,6
+West Bengal,Raiganj,C,F,4
+West Bengal,Haora,B,M,100
+West Bengal,Haora,B,F,91
+West Bengal,Haora,C,M,43
+West Bengal,Haora,C,F,32
+West Bengal,Haora,A,M,133
+West Bengal,Haora,A,F,132
+West Bengal,Kanchrapara,A,F,11
+West Bengal,Kanchrapara,A,M,18
+West Bengal,Kanchrapara,B,M,12
+West Bengal,Kanchrapara,B,F,12
+West Bengal,Kanchrapara,C,F,5
+West Bengal,Kanchrapara,C,M,7
+West Bengal,Naihati,A,M,36
+West Bengal,Naihati,A,F,30
+West Bengal,Naihati,B,F,15
+West Bengal,Naihati,B,M,17
+West Bengal,Naihati,C,F,7
+West Bengal,Naihati,C,M,7
+West Bengal,Jalpaiguri,A,M,20
+West Bengal,Jalpaiguri,A,F,21
+West Bengal,Jalpaiguri,B,M,12
+West Bengal,Jalpaiguri,B,F,11
+West Bengal,Jalpaiguri,C,M,5
+West Bengal,Jalpaiguri,C,F,7
+West Bengal,Kalyani,B,M,7
+West Bengal,Kalyani,B,F,7
+West Bengal,Kalyani,A,F,11
+West Bengal,Kalyani,A,M,8
+West Bengal,Kalyani,C,M,6
+West Bengal,Kalyani,C,F,3
+West Bengal,Bankura,A,F,25
+West Bengal,Bankura,A,M,27
+West Bengal,Bankura,B,M,9
+West Bengal,Bankura,B,F,8
+West Bengal,Bankura,C,M,8
+West Bengal,Bankura,C,F,4
+West Bengal,Kamarhati,B,M,22
+West Bengal,Kamarhati,B,F,19
+West Bengal,Kamarhati,A,F,51
+West Bengal,Kamarhati,A,M,45
+West Bengal,Kamarhati,C,M,5
+West Bengal,Kamarhati,C,F,7
+West Bengal,Uluberiya,B,M,12
+West Bengal,Uluberiya,B,F,20
+West Bengal,Uluberiya,A,M,28
+West Bengal,Uluberiya,A,F,29
+West Bengal,Uluberiya,C,F,8
+West Bengal,Uluberiya,C,M,9
+West Bengal,Baidyabati,A,F,16
+West Bengal,Baidyabati,A,M,18
+West Bengal,Baidyabati,B,F,16
+West Bengal,Baidyabati,B,M,13
+West Bengal,Baidyabati,C,M,1
+West Bengal,Baidyabati,C,F,3
+West Bengal,Medinipur,A,F,27
+West Bengal,Medinipur,A,M,13
+West Bengal,Medinipur,C,F,15
+West Bengal,Medinipur,C,M,7
+West Bengal,Medinipur,B,M,18
+West Bengal,Medinipur,B,F,14
+West Bengal,Kharagpur,A,M,26
+West Bengal,Kharagpur,A,F,26
+West Bengal,Kharagpur,C,M,12
+West Bengal,Kharagpur,C,F,12
+West Bengal,Kharagpur,B,M,15
+West Bengal,Kharagpur,B,F,17
+West Bengal,Dam Dam,C,M,7
+West Bengal,Dam Dam,C,F,4
+West Bengal,Dam Dam,A,M,15
+West Bengal,Dam Dam,A,F,19
+West Bengal,Dam Dam,B,M,9
+West Bengal,Dam Dam,B,F,11
+West Bengal,Titagarh,A,M,15
+West Bengal,Titagarh,A,F,14
+West Bengal,Titagarh,B,F,17
+West Bengal,Titagarh,B,M,8
+West Bengal,Titagarh,C,F,4
+West Bengal,Titagarh,C,M,2
+West Bengal,Halisahar,B,M,9
+West Bengal,Halisahar,B,F,10
+West Bengal,Halisahar,C,M,5
+West Bengal,Halisahar,C,F,3
+West Bengal,Halisahar,A,M,18
+West Bengal,Halisahar,A,F,13
+West Bengal,Barasat,B,F,26
+West Bengal,Barasat,B,M,28
+West Bengal,Barasat,A,M,36
+West Bengal,Barasat,A,F,43
+West Bengal,Barasat,C,M,11
+West Bengal,Barasat,C,F,13
+West Bengal,Bhatpara,B,M,29
+West Bengal,Bhatpara,B,F,34
+West Bengal,Bhatpara,A,F,39
+West Bengal,Bhatpara,A,M,54
+West Bengal,Bhatpara,C,F,12
+West Bengal,Bhatpara,C,M,14
+West Bengal,Durgapur,A,F,64
+West Bengal,Durgapur,A,M,84
+West Bengal,Durgapur,B,M,54
+West Bengal,Durgapur,B,F,78
+West Bengal,Durgapur,C,M,21
+West Bengal,Durgapur,C,F,21
+West Bengal,Asansol,A,M,69
+West Bengal,Asansol,A,F,67
+West Bengal,Asansol,C,F,22
+West Bengal,Asansol,C,M,14
+West Bengal,Asansol,B,F,50
+West Bengal,Asansol,B,M,40
+West Bengal,Balurghat,A,F,22
+West Bengal,Balurghat,A,M,16
+West Bengal,Balurghat,B,M,10
+West Bengal,Balurghat,B,F,13
+West Bengal,Balurghat,C,F,6
+West Bengal,Balurghat,C,M,6
+West Bengal,Bali,C,F,11
+West Bengal,Bali,C,M,5
+West Bengal,Bali,B,M,32
+West Bengal,Bali,B,F,33
+West Bengal,Bali,A,M,32
+West Bengal,Bali,A,F,40
+West Bengal,Hugli,A,F,25
+West Bengal,Hugli,A,M,20
+West Bengal,Hugli,B,F,21
+West Bengal,Hugli,B,M,17
+West Bengal,Hugli,C,M,6
+West Bengal,Hugli,C,F,11
+West Bengal,Bansbaria,A,M,10
+West Bengal,Bansbaria,A,F,14
+West Bengal,Bansbaria,C,M,4
+West Bengal,Bansbaria,C,F,6
+West Bengal,Bansbaria,B,F,9
+West Bengal,Bansbaria,B,M,10
+West Bengal,Kulti,A,F,41
+West Bengal,Kulti,A,M,33
+West Bengal,Kulti,B,M,34
+West Bengal,Kulti,B,F,29
+West Bengal,Kulti,C,F,18
+West Bengal,Kulti,C,M,4
+West Bengal,Baharampur,A,F,42
+West Bengal,Baharampur,A,M,18
+West Bengal,Baharampur,B,M,17
+West Bengal,Baharampur,B,F,13
+West Bengal,Baharampur,C,M,8
+West Bengal,Baharampur,C,F,3
+West Bengal,Shiliguri,B,F,24
+West Bengal,Shiliguri,B,M,25
+West Bengal,Shiliguri,A,M,42
+West Bengal,Shiliguri,A,F,31
+West Bengal,Shiliguri,C,M,11
+West Bengal,Shiliguri,C,F,3
+West Bengal,Champdani,A,F,17
+West Bengal,Champdani,A,M,17
+West Bengal,Champdani,C,F,11
+West Bengal,Champdani,C,M,2
+West Bengal,Champdani,B,M,8
+West Bengal,Champdani,B,F,8
+West Bengal,Shantipur,A,M,17
+West Bengal,Shantipur,A,F,15
+West Bengal,Shantipur,C,M,8
+West Bengal,Shantipur,C,F,7
+West Bengal,Shantipur,B,F,10
+West Bengal,Shantipur,B,M,17
+West Bengal,Shrirampur,A,F,19
+West Bengal,Shrirampur,A,M,23
+West Bengal,Shrirampur,C,F,7
+West Bengal,Shrirampur,C,M,5
+West Bengal,Shrirampur,B,M,14
+West Bengal,Shrirampur,B,F,18
+West Bengal,Panihati,C,F,17
+West Bengal,Panihati,C,M,14
+West Bengal,Panihati,A,F,38
+West Bengal,Panihati,A,M,48
+West Bengal,Panihati,B,M,27
+West Bengal,Panihati,B,F,20
+West Bengal,Bhadreswar,C,F,5
+West Bengal,Bhadreswar,C,M,1
+West Bengal,Bhadreswar,B,M,16
+West Bengal,Bhadreswar,B,F,7
+West Bengal,Bhadreswar,A,M,15
+West Bengal,Bhadreswar,A,F,14
+West Bengal,Bangaon,A,M,15
+West Bengal,Bangaon,A,F,14
+West Bengal,Bangaon,B,M,11
+West Bengal,Bangaon,B,F,9
+West Bengal,Bangaon,C,M,2
+West Bengal,Bangaon,C,F,2
+West Bengal,Basirhat,A,M,18
+West Bengal,Basirhat,A,F,20
+West Bengal,Basirhat,C,F,5
+West Bengal,Basirhat,C,M,4
+West Bengal,Basirhat,B,M,13
+West Bengal,Basirhat,B,F,11
+West Bengal,Krishnanagar,C,F,5
+West Bengal,Krishnanagar,C,M,5
+West Bengal,Krishnanagar,B,M,17
+West Bengal,Krishnanagar,B,F,14
+West Bengal,Krishnanagar,A,M,18
+West Bengal,Krishnanagar,A,F,21
+West Bengal,Barddhaman,B,F,28
+West Bengal,Barddhaman,B,M,25
+West Bengal,Barddhaman,A,F,33
+West Bengal,Barddhaman,A,M,38
+West Bengal,Barddhaman,C,M,12
+West Bengal,Barddhaman,C,F,22
+West Bengal,Navadwip,A,F,17
+West Bengal,Navadwip,A,M,11
+West Bengal,Navadwip,B,F,15
+West Bengal,Navadwip,B,M,10
+West Bengal,Navadwip,C,F,7
+West Bengal,Navadwip,C,M,3
+West Bengal,Khardah,A,F,11
+West Bengal,Khardah,A,M,7
+West Bengal,Khardah,B,M,6
+West Bengal,Khardah,B,F,4
+West Bengal,Khardah,C,F,7
+West Bengal,Khardah,C,M,5
+West Bengal,Haldia,A,M,17
+West Bengal,Haldia,A,F,20
+West Bengal,Haldia,B,M,20
+West Bengal,Haldia,B,F,21
+West Bengal,Haldia,C,M,10
+West Bengal,Haldia,C,F,10
+West Bengal,Habra,B,M,15
+West Bengal,Habra,B,F,9
+West Bengal,Habra,A,F,16
+West Bengal,Habra,A,M,11
+West Bengal,Habra,C,F,5
+West Bengal,Habra,C,M,8
+West Bengal,Ingraj Bazar,A,M,26
+West Bengal,Ingraj Bazar,A,F,32
+West Bengal,Ingraj Bazar,C,F,7
+West Bengal,Ingraj Bazar,C,M,9
+West Bengal,Ingraj Bazar,B,F,12
+West Bengal,Ingraj Bazar,B,M,15
+West Bengal,Rishra,A,M,14
+West Bengal,Rishra,A,F,13
+West Bengal,Rishra,C,M,3
+West Bengal,Rishra,C,F,6
+West Bengal,Rishra,B,M,7
+West Bengal,Rishra,B,F,6
+West Bengal,Alipur Duar,A,F,13
+West Bengal,Alipur Duar,A,M,20
+West Bengal,Alipur Duar,B,M,15
+West Bengal,Alipur Duar,B,F,14
+West Bengal,Alipur Duar,C,M,10
+West Bengal,Alipur Duar,C,F,4
+West Bengal,Darjeeling,B,F,6
+West Bengal,Darjeeling,B,M,9
+West Bengal,Darjeeling,A,M,11
+West Bengal,Darjeeling,A,F,11
+West Bengal,Darjeeling,C,F,3
+West Bengal,Jamuria,A,F,13
+West Bengal,Jamuria,A,M,14
+West Bengal,Jamuria,B,M,12
+West Bengal,Jamuria,B,F,13
+West Bengal,Jamuria,C,M,4
+West Bengal,Jamuria,C,F,3
+West Bengal,Chandannagar,A,M,23
+West Bengal,Chandannagar,A,F,27
+West Bengal,Chandannagar,C,F,8
+West Bengal,Chandannagar,C,M,9
+West Bengal,Chandannagar,B,F,10
+West Bengal,Chandannagar,B,M,16
+West Bengal,Madhyamgram,B,M,14
+West Bengal,Madhyamgram,B,F,27
+West Bengal,Madhyamgram,A,M,18
+West Bengal,Madhyamgram,A,F,22
+West Bengal,Madhyamgram,C,M,9
+West Bengal,Madhyamgram,C,F,8
+West Bengal,Jaynagar-Majilpur,A,M,2
+West Bengal,Jaynagar-Majilpur,A,F,1
+West Bengal,Jaynagar-Majilpur,B,F,1
+West Bengal,Jaynagar-Majilpur,B,M,2
+Haryana,Bhiwani,B,M,18
+Haryana,Bhiwani,B,F,20
+Haryana,Bhiwani,A,F,25
+Haryana,Bhiwani,A,M,18
+Haryana,Bhiwani,C,F,7
+Haryana,Bhiwani,C,M,12
+Haryana,Rohtak,C,F,23
+Haryana,Rohtak,C,M,16
+Haryana,Rohtak,B,M,32
+Haryana,Rohtak,B,F,37
+Haryana,Rohtak,A,F,66
+Haryana,Rohtak,A,M,43
+Haryana,Sonipat,A,M,28
+Haryana,Sonipat,A,F,28
+Haryana,Sonipat,B,F,32
+Haryana,Sonipat,B,M,30
+Haryana,Sonipat,C,M,8
+Haryana,Sonipat,C,F,4
+Haryana,Sirsa,A,F,28
+Haryana,Sirsa,A,M,24
+Haryana,Sirsa,C,F,5
+Haryana,Sirsa,C,M,6
+Haryana,Sirsa,B,M,16
+Haryana,Sirsa,B,F,15
+Haryana,Faridabad,B,M,118
+Haryana,Faridabad,B,F,131
+Haryana,Faridabad,C,M,50
+Haryana,Faridabad,C,F,40
+Haryana,Faridabad,A,M,153
+Haryana,Faridabad,A,F,183
+Haryana,Karnal,A,F,31
+Haryana,Karnal,A,M,36
+Haryana,Karnal,C,F,9
+Haryana,Karnal,C,M,8
+Haryana,Karnal,B,M,16
+Haryana,Karnal,B,F,16
+Haryana,Hisar,A,M,45
+Haryana,Hisar,A,F,40
+Haryana,Hisar,B,F,27
+Haryana,Hisar,B,M,22
+Haryana,Hisar,C,M,11
+Haryana,Hisar,C,F,7
+Haryana,Panipat,A,M,36
+Haryana,Panipat,A,F,38
+Haryana,Panipat,B,M,24
+Haryana,Panipat,B,F,30
+Haryana,Panipat,C,M,19
+Haryana,Panipat,C,F,10
+Haryana,Gurgaon,B,F,8
+Haryana,Gurgaon,B,M,10
+Haryana,Gurgaon,C,M,6
+Haryana,Gurgaon,C,F,7
+Haryana,Gurgaon,A,F,24
+Haryana,Gurgaon,A,M,17
+Haryana,Ambala,B,M,14
+Haryana,Ambala,B,F,6
+Haryana,Ambala,A,M,16
+Haryana,Ambala,A,F,21
+Haryana,Ambala,C,M,6
+Haryana,Ambala,C,F,5
+Andhra Pradesh,Vishakhapatnam,B,M,180
+Andhra Pradesh,Vishakhapatnam,B,F,171
+Andhra Pradesh,Vishakhapatnam,A,F,245
+Andhra Pradesh,Vishakhapatnam,A,M,254
+Andhra Pradesh,Vishakhapatnam,C,M,61
+Andhra Pradesh,Vishakhapatnam,C,F,86
+Andhra Pradesh,Anakapalle,A,M,9
+Andhra Pradesh,Anakapalle,A,F,13
+Andhra Pradesh,Anakapalle,C,M,1
+Andhra Pradesh,Anakapalle,C,F,2
+Andhra Pradesh,Anakapalle,B,M,6
+Andhra Pradesh,Anakapalle,B,F,3
+Andhra Pradesh,Madanapalle,A,M,23
+Andhra Pradesh,Madanapalle,A,F,17
+Andhra Pradesh,Madanapalle,B,F,21
+Andhra Pradesh,Madanapalle,B,M,20
+Andhra Pradesh,Madanapalle,C,F,3
+Andhra Pradesh,Madanapalle,C,M,10
+Andhra Pradesh,Cuddapah,B,M,29
+Andhra Pradesh,Cuddapah,B,F,29
+Andhra Pradesh,Cuddapah,C,M,7
+Andhra Pradesh,Cuddapah,C,F,5
+Andhra Pradesh,Cuddapah,A,M,42
+Andhra Pradesh,Cuddapah,A,F,33
+Andhra Pradesh,Badvel,A,F,8
+Andhra Pradesh,Badvel,A,M,9
+Andhra Pradesh,Badvel,B,M,7
+Andhra Pradesh,Badvel,B,F,5
+Andhra Pradesh,Badvel,C,F,4
+Andhra Pradesh,Hindupur,A,F,19
+Andhra Pradesh,Hindupur,A,M,9
+Andhra Pradesh,Hindupur,B,M,23
+Andhra Pradesh,Hindupur,B,F,15
+Andhra Pradesh,Hindupur,C,F,4
+Andhra Pradesh,Hindupur,C,M,7
+Andhra Pradesh,Guntur,A,F,75
+Andhra Pradesh,Guntur,A,M,67
+Andhra Pradesh,Guntur,C,F,26
+Andhra Pradesh,Guntur,C,M,20
+Andhra Pradesh,Guntur,B,F,53
+Andhra Pradesh,Guntur,B,M,41
+Andhra Pradesh,Anantapur,A,F,29
+Andhra Pradesh,Anantapur,A,M,28
+Andhra Pradesh,Anantapur,B,M,34
+Andhra Pradesh,Anantapur,B,F,15
+Andhra Pradesh,Anantapur,C,F,12
+Andhra Pradesh,Anantapur,C,M,14
+Andhra Pradesh,Ongole,A,F,33
+Andhra Pradesh,Ongole,A,M,39
+Andhra Pradesh,Ongole,B,M,28
+Andhra Pradesh,Ongole,B,F,17
+Andhra Pradesh,Ongole,C,F,8
+Andhra Pradesh,Ongole,C,M,6
+Andhra Pradesh,Tenali,A,M,20
+Andhra Pradesh,Tenali,A,F,21
+Andhra Pradesh,Tenali,C,F,10
+Andhra Pradesh,Tenali,C,M,3
+Andhra Pradesh,Tenali,B,M,9
+Andhra Pradesh,Tenali,B,F,7
+Andhra Pradesh,Dharmavaram,A,F,27
+Andhra Pradesh,Dharmavaram,A,M,15
+Andhra Pradesh,Dharmavaram,B,M,6
+Andhra Pradesh,Dharmavaram,B,F,10
+Andhra Pradesh,Dharmavaram,C,F,3
+Andhra Pradesh,Dharmavaram,C,M,1
+Andhra Pradesh,Bezwada,C,M,36
+Andhra Pradesh,Bezwada,C,F,25
+Andhra Pradesh,Bezwada,A,M,114
+Andhra Pradesh,Bezwada,A,F,132
+Andhra Pradesh,Bezwada,B,F,84
+Andhra Pradesh,Bezwada,B,M,102
+Andhra Pradesh,Ellore,A,F,26
+Andhra Pradesh,Ellore,A,M,29
+Andhra Pradesh,Ellore,B,M,14
+Andhra Pradesh,Ellore,B,F,11
+Andhra Pradesh,Ellore,C,M,13
+Andhra Pradesh,Ellore,C,F,11
+Andhra Pradesh,Kurnool,A,M,56
+Andhra Pradesh,Kurnool,A,F,64
+Andhra Pradesh,Kurnool,B,F,45
+Andhra Pradesh,Kurnool,B,M,33
+Andhra Pradesh,Kurnool,C,F,16
+Andhra Pradesh,Kurnool,C,M,22
+Andhra Pradesh,Nandyal,A,M,24
+Andhra Pradesh,Nandyal,A,F,34
+Andhra Pradesh,Nandyal,B,M,14
+Andhra Pradesh,Nandyal,B,F,22
+Andhra Pradesh,Nandyal,C,M,9
+Andhra Pradesh,Nandyal,C,F,13
+Andhra Pradesh,Emmiganur,C,F,7
+Andhra Pradesh,Emmiganur,C,M,6
+Andhra Pradesh,Emmiganur,A,F,16
+Andhra Pradesh,Emmiganur,A,M,9
+Andhra Pradesh,Emmiganur,B,F,7
+Andhra Pradesh,Emmiganur,B,M,5
+Andhra Pradesh,Vizianagaram,B,M,20
+Andhra Pradesh,Vizianagaram,B,F,25
+Andhra Pradesh,Vizianagaram,A,F,29
+Andhra Pradesh,Vizianagaram,A,M,31
+Andhra Pradesh,Vizianagaram,C,F,7
+Andhra Pradesh,Vizianagaram,C,M,9
+Andhra Pradesh,Nellore,A,M,82
+Andhra Pradesh,Nellore,A,F,67
+Andhra Pradesh,Nellore,B,M,44
+Andhra Pradesh,Nellore,B,F,41
+Andhra Pradesh,Nellore,C,M,17
+Andhra Pradesh,Nellore,C,F,19
+Andhra Pradesh,Tadepallegudem,B,F,16
+Andhra Pradesh,Tadepallegudem,B,M,5
+Andhra Pradesh,Tadepallegudem,A,F,8
+Andhra Pradesh,Tadepallegudem,A,M,8
+Andhra Pradesh,Tadepallegudem,C,M,3
+Andhra Pradesh,Tadepallegudem,C,F,5
+Andhra Pradesh,Giddalur,A,F,2
+Andhra Pradesh,Giddalur,A,M,5
+Andhra Pradesh,Giddalur,B,M,4
+Andhra Pradesh,Giddalur,B,F,3
+Andhra Pradesh,Giddalur,C,M,3
+Andhra Pradesh,Giddalur,C,F,1
+Andhra Pradesh,Tadpatri,B,M,11
+Andhra Pradesh,Tadpatri,B,F,9
+Andhra Pradesh,Tadpatri,A,F,22
+Andhra Pradesh,Tadpatri,A,M,16
+Andhra Pradesh,Tadpatri,C,F,6
+Andhra Pradesh,Tadpatri,C,M,4
+Andhra Pradesh,Ponnuru,A,F,11
+Andhra Pradesh,Ponnuru,A,M,7
+Andhra Pradesh,Ponnuru,B,M,4
+Andhra Pradesh,Ponnuru,B,F,6
+Andhra Pradesh,Ponnuru,C,F,2
+Andhra Pradesh,Ponnuru,C,M,5
+Andhra Pradesh,Amudalavalasa,B,M,7
+Andhra Pradesh,Amudalavalasa,B,F,1
+Andhra Pradesh,Amudalavalasa,C,F,2
+Andhra Pradesh,Amudalavalasa,C,M,1
+Andhra Pradesh,Amudalavalasa,A,F,5
+Andhra Pradesh,Amudalavalasa,A,M,3
+Andhra Pradesh,Rajahmundry,A,M,40
+Andhra Pradesh,Rajahmundry,A,F,44
+Andhra Pradesh,Rajahmundry,B,F,23
+Andhra Pradesh,Rajahmundry,B,M,17
+Andhra Pradesh,Rajahmundry,C,F,13
+Andhra Pradesh,Rajahmundry,C,M,12
+Andhra Pradesh,Tirupati,C,F,8
+Andhra Pradesh,Tirupati,C,M,8
+Andhra Pradesh,Tirupati,A,M,37
+Andhra Pradesh,Tirupati,A,F,31
+Andhra Pradesh,Tirupati,B,F,36
+Andhra Pradesh,Tirupati,B,M,19
+Andhra Pradesh,Kakinada,A,M,40
+Andhra Pradesh,Kakinada,A,F,42
+Andhra Pradesh,Kakinada,B,F,28
+Andhra Pradesh,Kakinada,B,M,24
+Andhra Pradesh,Kakinada,C,F,12
+Andhra Pradesh,Kakinada,C,M,11
+Andhra Pradesh,Venkatagiri,C,F,2
+Andhra Pradesh,Venkatagiri,C,M,8
+Andhra Pradesh,Venkatagiri,A,F,6
+Andhra Pradesh,Venkatagiri,A,M,3
+Andhra Pradesh,Venkatagiri,B,M,5
+Andhra Pradesh,Venkatagiri,B,F,4
+Andhra Pradesh,Jammalamadugu,A,M,5
+Andhra Pradesh,Jammalamadugu,A,F,3
+Andhra Pradesh,Jammalamadugu,B,M,2
+Andhra Pradesh,Jammalamadugu,B,F,4
+Andhra Pradesh,Jammalamadugu,C,M,3
+Andhra Pradesh,Vinukonda,A,F,7
+Andhra Pradesh,Vinukonda,A,M,8
+Andhra Pradesh,Vinukonda,B,M,2
+Andhra Pradesh,Vinukonda,B,F,1
+Andhra Pradesh,Vinukonda,C,M,3
+Andhra Pradesh,Vinukonda,C,F,5
+Andhra Pradesh,Addanki,A,M,7
+Andhra Pradesh,Addanki,A,F,6
+Andhra Pradesh,Addanki,C,F,5
+Andhra Pradesh,Addanki,C,M,3
+Andhra Pradesh,Addanki,B,F,2
+Andhra Pradesh,Gudivada,A,F,16
+Andhra Pradesh,Gudivada,A,M,10
+Andhra Pradesh,Gudivada,B,F,6
+Andhra Pradesh,Gudivada,B,M,10
+Andhra Pradesh,Gudivada,C,M,4
+Andhra Pradesh,Gudivada,C,F,7
+Andhra Pradesh,Bobbili,A,M,4
+Andhra Pradesh,Bobbili,A,F,12
+Andhra Pradesh,Bobbili,B,M,3
+Andhra Pradesh,Bobbili,B,F,5
+Andhra Pradesh,Bobbili,C,F,1
+Andhra Pradesh,Bobbili,C,M,2
+Andhra Pradesh,Tanuku,A,F,13
+Andhra Pradesh,Tanuku,A,M,10
+Andhra Pradesh,Tanuku,B,M,7
+Andhra Pradesh,Tanuku,B,F,6
+Andhra Pradesh,Tanuku,C,M,2
+Andhra Pradesh,Tanuku,C,F,2
+Andhra Pradesh,Bhimunipatnam,B,M,8
+Andhra Pradesh,Bhimunipatnam,B,F,5
+Andhra Pradesh,Bhimunipatnam,A,F,12
+Andhra Pradesh,Bhimunipatnam,A,M,3
+Andhra Pradesh,Bhimunipatnam,C,M,3
+Andhra Pradesh,Bhimunipatnam,C,F,3
+Andhra Pradesh,Machilipatnam,A,F,22
+Andhra Pradesh,Machilipatnam,A,M,23
+Andhra Pradesh,Machilipatnam,B,F,13
+Andhra Pradesh,Machilipatnam,B,M,4
+Andhra Pradesh,Machilipatnam,C,M,7
+Andhra Pradesh,Machilipatnam,C,F,6
+Andhra Pradesh,Chirala,B,M,9
+Andhra Pradesh,Chirala,B,F,12
+Andhra Pradesh,Chirala,A,M,19
+Andhra Pradesh,Chirala,A,F,25
+Andhra Pradesh,Chirala,C,M,8
+Andhra Pradesh,Chirala,C,F,4
+Andhra Pradesh,Proddatur,A,M,19
+Andhra Pradesh,Proddatur,A,F,26
+Andhra Pradesh,Proddatur,C,F,8
+Andhra Pradesh,Proddatur,C,M,4
+Andhra Pradesh,Proddatur,B,F,16
+Andhra Pradesh,Proddatur,B,M,8
+Andhra Pradesh,Repalle,A,F,2
+Andhra Pradesh,Repalle,A,M,6
+Andhra Pradesh,Repalle,C,M,2
+Andhra Pradesh,Repalle,C,F,3
+Andhra Pradesh,Repalle,B,M,3
+Andhra Pradesh,Repalle,B,F,4
+Andhra Pradesh,Narasapur,A,F,4
+Andhra Pradesh,Narasapur,A,M,5
+Andhra Pradesh,Narasapur,B,F,4
+Andhra Pradesh,Narasapur,B,M,4
+Andhra Pradesh,Narasapur,C,M,1
+Andhra Pradesh,Narasapur,C,F,1
+Andhra Pradesh,Samalkot,A,M,4
+Andhra Pradesh,Samalkot,A,F,1
+Andhra Pradesh,Samalkot,B,F,9
+Andhra Pradesh,Samalkot,B,M,6
+Andhra Pradesh,Samalkot,C,F,3
+Andhra Pradesh,Samalkot,C,M,1
+Andhra Pradesh,Narasaraopet,A,F,22
+Andhra Pradesh,Narasaraopet,A,M,18
+Andhra Pradesh,Narasaraopet,B,F,15
+Andhra Pradesh,Narasaraopet,B,M,7
+Andhra Pradesh,Narasaraopet,C,F,7
+Andhra Pradesh,Narasaraopet,C,M,8
+Andhra Pradesh,Kadiri,C,F,5
+Andhra Pradesh,Kadiri,C,M,7
+Andhra Pradesh,Kadiri,B,M,9
+Andhra Pradesh,Kadiri,B,F,3
+Andhra Pradesh,Kadiri,A,F,13
+Andhra Pradesh,Kadiri,A,M,8
+Andhra Pradesh,Chittoor,A,F,14
+Andhra Pradesh,Chittoor,A,M,23
+Andhra Pradesh,Chittoor,B,F,18
+Andhra Pradesh,Chittoor,B,M,8
+Andhra Pradesh,Chittoor,C,F,4
+Andhra Pradesh,Chittoor,C,M,5
+Andhra Pradesh,Macherla,C,F,3
+Andhra Pradesh,Macherla,C,M,4
+Andhra Pradesh,Macherla,B,F,5
+Andhra Pradesh,Macherla,B,M,3
+Andhra Pradesh,Macherla,A,M,4
+Andhra Pradesh,Macherla,A,F,6
+Andhra Pradesh,Koilkuntla,B,M,5
+Andhra Pradesh,Koilkuntla,B,F,1
+Andhra Pradesh,Koilkuntla,A,F,5
+Andhra Pradesh,Koilkuntla,A,M,2
+Andhra Pradesh,Koilkuntla,C,F,1
+Andhra Pradesh,Sattenapalle,A,F,7
+Andhra Pradesh,Sattenapalle,A,M,4
+Andhra Pradesh,Sattenapalle,B,M,5
+Andhra Pradesh,Sattenapalle,B,F,8
+Andhra Pradesh,Sattenapalle,C,F,3
+Andhra Pradesh,Adoni,B,M,14
+Andhra Pradesh,Adoni,B,F,14
+Andhra Pradesh,Adoni,A,F,20
+Andhra Pradesh,Adoni,A,M,26
+Andhra Pradesh,Adoni,C,F,6
+Andhra Pradesh,Adoni,C,M,4
+Andhra Pradesh,Kavali,B,M,9
+Andhra Pradesh,Kavali,B,F,5
+Andhra Pradesh,Kavali,A,M,9
+Andhra Pradesh,Kavali,A,F,8
+Andhra Pradesh,Kavali,C,M,4
+Andhra Pradesh,Kavali,C,F,3
+Andhra Pradesh,Mandapeta,A,F,5
+Andhra Pradesh,Mandapeta,A,M,12
+Andhra Pradesh,Mandapeta,C,F,3
+Andhra Pradesh,Mandapeta,C,M,3
+Andhra Pradesh,Mandapeta,B,M,4
+Andhra Pradesh,Mandapeta,B,F,4
+Andhra Pradesh,Palakollu,B,F,8
+Andhra Pradesh,Palakollu,B,M,11
+Andhra Pradesh,Palakollu,A,F,19
+Andhra Pradesh,Palakollu,A,M,13
+Andhra Pradesh,Palakollu,C,M,3
+Andhra Pradesh,Palakollu,C,F,2
+Andhra Pradesh,Guntakal,B,M,9
+Andhra Pradesh,Guntakal,B,F,6
+Andhra Pradesh,Guntakal,C,M,4
+Andhra Pradesh,Guntakal,C,F,6
+Andhra Pradesh,Guntakal,A,F,13
+Andhra Pradesh,Guntakal,A,M,7
+Andhra Pradesh,Bhimavaram,C,F,7
+Andhra Pradesh,Bhimavaram,C,M,9
+Andhra Pradesh,Bhimavaram,A,M,15
+Andhra Pradesh,Bhimavaram,A,F,17
+Andhra Pradesh,Bhimavaram,B,F,14
+Andhra Pradesh,Bhimavaram,B,M,15
+Andhra Pradesh,Chilakalurupet,B,F,9
+Andhra Pradesh,Chilakalurupet,B,M,6
+Andhra Pradesh,Chilakalurupet,C,M,4
+Andhra Pradesh,Chilakalurupet,C,F,2
+Andhra Pradesh,Chilakalurupet,A,F,14
+Andhra Pradesh,Chilakalurupet,A,M,7
+Andhra Pradesh,Chicacole,A,F,19
+Andhra Pradesh,Chicacole,A,M,18
+Andhra Pradesh,Chicacole,C,F,6
+Andhra Pradesh,Chicacole,C,M,4
+Andhra Pradesh,Chicacole,B,F,19
+Andhra Pradesh,Chicacole,B,M,13
+Andhra Pradesh,Nidadavole,A,M,5
+Andhra Pradesh,Nidadavole,A,F,3
+Andhra Pradesh,Nidadavole,B,F,2
+Andhra Pradesh,Nidadavole,B,M,3
+Andhra Pradesh,Nidadavole,C,M,2
+Andhra Pradesh,Nidadavole,C,F,1
+Andhra Pradesh,Amalapuram,C,M,1
+Andhra Pradesh,Amalapuram,C,F,2
+Andhra Pradesh,Amalapuram,A,F,9
+Andhra Pradesh,Amalapuram,A,M,8
+Andhra Pradesh,Amalapuram,B,M,4
+Andhra Pradesh,Amalapuram,B,F,6
+Andhra Pradesh,Nagari,B,F,4
+Andhra Pradesh,Nagari,B,M,5
+Andhra Pradesh,Nagari,A,F,10
+Andhra Pradesh,Nagari,A,M,4
+Andhra Pradesh,Nagari,C,F,1
+Andhra Pradesh,Nagari,C,M,2
+Andhra Pradesh,Pulivendla,B,M,6
+Andhra Pradesh,Pulivendla,B,F,3
+Andhra Pradesh,Pulivendla,A,M,10
+Andhra Pradesh,Pulivendla,A,F,7
+Andhra Pradesh,Pulivendla,C,M,2
+Andhra Pradesh,Pulivendla,C,F,3
+Andhra Pradesh,Pedana,C,M,3
+Andhra Pradesh,Pedana,C,F,2
+Andhra Pradesh,Pedana,B,F,3
+Andhra Pradesh,Pedana,B,M,2
+Andhra Pradesh,Pedana,A,F,2
+Andhra Pradesh,Pedana,A,M,2
+Andhra Pradesh,Markapur,C,F,3
+Andhra Pradesh,Markapur,C,M,3
+Andhra Pradesh,Markapur,A,F,7
+Andhra Pradesh,Markapur,A,M,10
+Andhra Pradesh,Markapur,B,F,7
+Andhra Pradesh,Markapur,B,M,2
+Andhra Pradesh,Mangalagiri,A,F,10
+Andhra Pradesh,Mangalagiri,A,M,5
+Andhra Pradesh,Mangalagiri,C,M,3
+Andhra Pradesh,Mangalagiri,C,F,2
+Andhra Pradesh,Mangalagiri,B,F,8
+Andhra Pradesh,Mangalagiri,B,M,5
+Andhra Pradesh,Pithapuram,B,M,8
+Andhra Pradesh,Pithapuram,B,F,1
+Andhra Pradesh,Pithapuram,C,M,3
+Andhra Pradesh,Pithapuram,C,F,3
+Andhra Pradesh,Pithapuram,A,F,9
+Andhra Pradesh,Pithapuram,A,M,3
+Andhra Pradesh,Tuni,A,M,12
+Andhra Pradesh,Tuni,A,F,2
+Andhra Pradesh,Tuni,B,M,3
+Andhra Pradesh,Tuni,B,F,4
+Andhra Pradesh,Tuni,C,F,1
+Andhra Pradesh,Tuni,C,M,2
+Andhra Pradesh,Kandukur,A,F,8
+Andhra Pradesh,Kandukur,A,M,5
+Andhra Pradesh,Kandukur,C,F,4
+Andhra Pradesh,Kandukur,C,M,3
+Andhra Pradesh,Kandukur,B,F,2
+Andhra Pradesh,Kandukur,B,M,6
+Andhra Pradesh,Tadepalle,A,M,10
+Andhra Pradesh,Tadepalle,A,F,11
+Andhra Pradesh,Tadepalle,B,F,4
+Andhra Pradesh,Tadepalle,B,M,1
+Andhra Pradesh,Tadepalle,C,F,2
+Andhra Pradesh,Tadepalle,C,M,1
+Andhra Pradesh,Puttur,B,M,5
+Andhra Pradesh,Puttur,B,F,3
+Andhra Pradesh,Puttur,A,M,7
+Andhra Pradesh,Puttur,A,F,5
+Andhra Pradesh,Puttur,C,F,3
+Andhra Pradesh,Puttur,C,M,1
+Andhra Pradesh,Pamidi,B,M,3
+Andhra Pradesh,Pamidi,A,M,4
+Andhra Pradesh,Pamidi,A,F,5
+Andhra Pradesh,Kovvur,B,F,5
+Andhra Pradesh,Kovvur,B,M,1
+Andhra Pradesh,Kovvur,A,F,4
+Andhra Pradesh,Kovvur,A,M,4
+Andhra Pradesh,Palmaner,B,F,6
+Andhra Pradesh,Palmaner,B,M,1
+Andhra Pradesh,Palmaner,A,F,4
+Andhra Pradesh,Palmaner,A,M,1
+Andhra Pradesh,Palmaner,C,F,1
+Andhra Pradesh,Punganuru,A,M,7
+Andhra Pradesh,Punganuru,A,F,3
+Andhra Pradesh,Punganuru,B,F,1
+Andhra Pradesh,Punganuru,B,M,3
+Andhra Pradesh,Punganuru,C,M,2
+Andhra Pradesh,Punganuru,C,F,1
+Andhra Pradesh,Chimakurti,C,M,2
+Andhra Pradesh,Chimakurti,A,M,4
+Andhra Pradesh,Chimakurti,A,F,2
+Andhra Pradesh,Chimakurti,B,F,3
+Andhra Pradesh,Chimakurti,B,M,3
+Andhra Pradesh,Narasannapeta,B,F,1
+Andhra Pradesh,Narasannapeta,B,M,2
+Andhra Pradesh,Narasannapeta,C,F,2
+Andhra Pradesh,Narasannapeta,A,M,3
+Andhra Pradesh,Narasannapeta,A,F,5
+Andhra Pradesh,Rayachoti,A,M,8
+Andhra Pradesh,Rayachoti,A,F,6
+Andhra Pradesh,Rayachoti,B,M,9
+Andhra Pradesh,Rayachoti,B,F,8
+Andhra Pradesh,Rayachoti,C,M,2
+Andhra Pradesh,Bapatla,C,M,1
+Andhra Pradesh,Bapatla,C,F,1
+Andhra Pradesh,Bapatla,A,F,4
+Andhra Pradesh,Bapatla,A,M,5
+Andhra Pradesh,Bapatla,B,M,5
+Andhra Pradesh,Bapatla,B,F,7
+Kerala,Trichur,A,F,42
+Kerala,Trichur,A,M,45
+Kerala,Trichur,B,F,25
+Kerala,Trichur,B,M,22
+Kerala,Trichur,C,F,14
+Kerala,Trichur,C,M,9
+Kerala,Thiruvananthapuram,A,F,93
+Kerala,Thiruvananthapuram,A,M,92
+Kerala,Thiruvananthapuram,C,F,26
+Kerala,Thiruvananthapuram,C,M,27
+Kerala,Thiruvananthapuram,B,M,56
+Kerala,Thiruvananthapuram,B,F,63
+Kerala,Calicut,B,F,40
+Kerala,Calicut,B,M,31
+Kerala,Calicut,A,F,47
+Kerala,Calicut,A,M,42
+Kerala,Calicut,C,M,12
+Kerala,Calicut,C,F,12
+Kerala,Pathanamthitta,A,F,9
+Kerala,Pathanamthitta,A,M,5
+Kerala,Pathanamthitta,B,M,2
+Kerala,Pathanamthitta,B,F,3
+Kerala,Pathanamthitta,C,F,2
+Kerala,Quilon,B,M,35
+Kerala,Quilon,B,F,28
+Kerala,Quilon,C,M,17
+Kerala,Quilon,C,F,15
+Kerala,Quilon,A,F,43
+Kerala,Quilon,A,M,42
+Kerala,Palghat,B,M,14
+Kerala,Palghat,B,F,9
+Kerala,Palghat,A,F,21
+Kerala,Palghat,A,M,14
+Kerala,Palghat,C,M,3
+Kerala,Palghat,C,F,2
+Kerala,Kochi,B,M,64
+Kerala,Kochi,B,F,58
+Kerala,Kochi,A,F,71
+Kerala,Kochi,A,M,105
+Kerala,Kochi,C,M,18
+Kerala,Kochi,C,F,22
+Kerala,Alleppey,C,M,7
+Kerala,Alleppey,C,F,10
+Kerala,Alleppey,A,F,20
+Kerala,Alleppey,A,M,14
+Kerala,Alleppey,B,M,19
+Kerala,Alleppey,B,F,16
+Kerala,Angamali,A,F,6
+Kerala,Angamali,A,M,5
+Kerala,Angamali,B,F,4
+Kerala,Angamali,B,M,3
+Kerala,Angamali,C,F,1
+Madhya Pradesh,Gwalior,A,M,117
+Madhya Pradesh,Gwalior,A,F,127
+Madhya Pradesh,Gwalior,B,F,90
+Madhya Pradesh,Gwalior,B,M,80
+Madhya Pradesh,Gwalior,C,F,39
+Madhya Pradesh,Gwalior,C,M,48
+Madhya Pradesh,Jabalpur,B,M,112
+Madhya Pradesh,Jabalpur,B,F,109
+Madhya Pradesh,Jabalpur,A,F,158
+Madhya Pradesh,Jabalpur,A,M,166
+Madhya Pradesh,Jabalpur,C,M,62
+Madhya Pradesh,Jabalpur,C,F,55
+Madhya Pradesh,Indore,A,F,278
+Madhya Pradesh,Indore,A,M,279
+Madhya Pradesh,Indore,B,F,196
+Madhya Pradesh,Indore,B,M,203
+Madhya Pradesh,Indore,C,M,77
+Madhya Pradesh,Indore,C,F,88
+Madhya Pradesh,Bhopal,C,M,67
+Madhya Pradesh,Bhopal,C,F,65
+Madhya Pradesh,Bhopal,A,F,235
+Madhya Pradesh,Bhopal,A,M,222
+Madhya Pradesh,Bhopal,B,F,162
+Madhya Pradesh,Bhopal,B,M,145
+Madhya Pradesh,Ujjain,A,M,65
+Madhya Pradesh,Ujjain,A,F,56
+Madhya Pradesh,Ujjain,B,F,43
+Madhya Pradesh,Ujjain,B,M,37
+Madhya Pradesh,Ujjain,C,M,21
+Madhya Pradesh,Ujjain,C,F,21
+Madhya Pradesh,Saugor,C,F,13
+Madhya Pradesh,Saugor,C,M,13
+Madhya Pradesh,Saugor,A,F,51
+Madhya Pradesh,Saugor,A,M,51
+Madhya Pradesh,Saugor,B,M,27
+Madhya Pradesh,Saugor,B,F,27
+Madhya Pradesh,Burhanpur,C,F,8
+Madhya Pradesh,Burhanpur,C,M,7
+Madhya Pradesh,Burhanpur,B,M,16
+Madhya Pradesh,Burhanpur,B,F,15
+Madhya Pradesh,Burhanpur,A,M,17
+Madhya Pradesh,Burhanpur,A,F,25
+Madhya Pradesh,Mandsaur,A,F,16
+Madhya Pradesh,Mandsaur,A,M,13
+Madhya Pradesh,Mandsaur,C,F,7
+Madhya Pradesh,Mandsaur,C,M,2
+Madhya Pradesh,Mandsaur,B,F,14
+Madhya Pradesh,Mandsaur,B,M,11
+Madhya Pradesh,Vidisha,B,M,9
+Madhya Pradesh,Vidisha,B,F,11
+Madhya Pradesh,Vidisha,C,M,10
+Madhya Pradesh,Vidisha,C,F,9
+Madhya Pradesh,Vidisha,A,M,22
+Madhya Pradesh,Vidisha,A,F,21
+Madhya Pradesh,Khajuraho,B,F,4
+Madhya Pradesh,Khajuraho,B,M,4
+Madhya Pradesh,Khajuraho,C,F,2
+Madhya Pradesh,Khajuraho,C,M,1
+Madhya Pradesh,Khajuraho,A,M,6
+Madhya Pradesh,Khajuraho,A,F,1
+Madhya Pradesh,Ratlam,A,F,31
+Madhya Pradesh,Ratlam,A,M,41
+Madhya Pradesh,Ratlam,B,F,16
+Madhya Pradesh,Ratlam,B,M,21
+Madhya Pradesh,Ratlam,C,M,10
+Madhya Pradesh,Ratlam,C,F,8
+Madhya Pradesh,Sannai,A,M,42
+Madhya Pradesh,Sannai,A,F,30
+Madhya Pradesh,Sannai,B,F,21
+Madhya Pradesh,Sannai,B,M,20
+Madhya Pradesh,Sannai,C,M,10
+Madhya Pradesh,Sannai,C,F,8
+Madhya Pradesh,Umaria,B,M,4
+Madhya Pradesh,Umaria,B,F,1
+Madhya Pradesh,Umaria,A,M,4
+Madhya Pradesh,Umaria,A,F,2
+Madhya Pradesh,Umaria,C,M,1
+Madhya Pradesh,Maihar,C,F,3
+Madhya Pradesh,Maihar,C,M,2
+Madhya Pradesh,Maihar,A,M,2
+Madhya Pradesh,Maihar,A,F,2
+Madhya Pradesh,Maihar,B,F,3
+Madhya Pradesh,Maihar,B,M,3
+Bihar,Patna,B,M,123
+Bihar,Patna,B,F,137
+Bihar,Patna,A,F,194
+Bihar,Patna,A,M,212
+Bihar,Patna,C,F,47
+Bihar,Patna,C,M,51
+Bihar,Begusarai,A,M,29
+Bihar,Begusarai,A,F,23
+Bihar,Begusarai,B,F,22
+Bihar,Begusarai,B,M,21
+Bihar,Begusarai,C,F,9
+Bihar,Begusarai,C,M,6
+Bihar,Deo,B,M,15
+Bihar,Deo,B,F,9
+Bihar,Deo,C,F,3
+Bihar,Deo,C,M,9
+Bihar,Deo,A,F,8
+Bihar,Deo,A,M,30
+Bihar,Muzaffarpur,B,F,29
+Bihar,Muzaffarpur,B,M,30
+Bihar,Muzaffarpur,C,F,11
+Bihar,Muzaffarpur,C,M,13
+Bihar,Muzaffarpur,A,F,37
+Bihar,Muzaffarpur,A,M,38
+Bihar,Bhagalpur,A,F,55
+Bihar,Bhagalpur,A,M,48
+Bihar,Bhagalpur,C,M,16
+Bihar,Bhagalpur,C,F,15
+Bihar,Bhagalpur,B,M,24
+Bihar,Bhagalpur,B,F,27
+Bihar,Purnea,A,F,33
+Bihar,Purnea,A,M,39
+Bihar,Purnea,B,M,28
+Bihar,Purnea,B,F,23
+Bihar,Purnea,C,M,10
+Bihar,Purnea,C,F,14
+Bihar,Gaya,B,M,36
+Bihar,Gaya,B,F,36
+Bihar,Gaya,A,M,60
+Bihar,Gaya,A,F,47
+Bihar,Gaya,C,F,21
+Bihar,Gaya,C,M,24
+Bihar,Rajgir,C,F,6
+Bihar,Rajgir,A,M,7
+Bihar,Rajgir,A,F,2
+Bihar,Rajgir,B,F,4
+Bihar,Rajgir,B,M,4
+Bihar,Aurangabad,A,M,11
+Bihar,Aurangabad,A,F,13
+Bihar,Aurangabad,B,F,15
+Bihar,Aurangabad,B,M,8
+Bihar,Aurangabad,C,M,5
+Bihar,Aurangabad,C,F,4
+Bihar,Saharsa,B,F,15
+Bihar,Saharsa,B,M,12
+Bihar,Saharsa,A,F,16
+Bihar,Saharsa,A,M,22
+Bihar,Saharsa,C,F,8
+Bihar,Saharsa,C,M,1
+Assam,Dispur,A,M,106
+Assam,Dispur,A,F,117
+Assam,Dispur,B,F,73
+Assam,Dispur,B,M,95
+Assam,Dispur,C,M,37
+Assam,Dispur,C,F,37
+Assam,Guwahati,B,M,75
+Assam,Guwahati,B,F,92
+Assam,Guwahati,C,M,35
+Assam,Guwahati,C,F,40
+Assam,Guwahati,A,F,101
+Assam,Guwahati,A,M,108
+Assam,Dibrugarh,B,F,15
+Assam,Dibrugarh,B,M,11
+Assam,Dibrugarh,A,M,14
+Assam,Dibrugarh,A,F,5
+Assam,Dibrugarh,C,F,2
+Assam,Dibrugarh,C,M,7
+Assam,Gauripur,B,F,2
+Assam,Gauripur,B,M,5
+Assam,Gauripur,A,M,3
+Assam,Gauripur,A,F,5
+Assam,Silchar,C,M,8
+Assam,Silchar,C,F,5
+Assam,Silchar,A,M,21
+Assam,Silchar,A,F,15
+Assam,Silchar,B,M,13
+Assam,Silchar,B,F,7
+Assam,Tezpur,A,F,10
+Assam,Tezpur,A,M,10
+Assam,Tezpur,C,M,1
+Assam,Tezpur,C,F,1
+Assam,Tezpur,B,M,3
+Assam,Jorhat,A,M,5
+Assam,Jorhat,A,F,7
+Assam,Jorhat,B,M,7
+Assam,Jorhat,B,F,5
+Assam,Jorhat,C,M,2
+Assam,Jorhat,C,F,1
+Telangana,Hyderabad,A,F,1145
+Telangana,Hyderabad,A,M,1172
+Telangana,Hyderabad,C,F,355
+Telangana,Hyderabad,C,M,364
+Telangana,Hyderabad,B,F,811
+Telangana,Hyderabad,B,M,818
+Telangana,Warangal,A,F,94
+Telangana,Warangal,A,M,89
+Telangana,Warangal,B,M,50
+Telangana,Warangal,B,F,61
+Telangana,Warangal,C,M,21
+Telangana,Warangal,C,F,33
+Telangana,Mahbubnagar,A,F,29
+Telangana,Mahbubnagar,A,M,31
+Telangana,Mahbubnagar,B,F,9
+Telangana,Mahbubnagar,B,M,15
+Telangana,Mahbubnagar,C,M,10
+Telangana,Mahbubnagar,C,F,4
+Telangana,Vikarabad,A,M,7
+Telangana,Vikarabad,A,F,3
+Telangana,Vikarabad,B,F,4
+Telangana,Vikarabad,B,M,6
+Telangana,Vikarabad,C,F,3
+Telangana,Karimnagar,B,M,27
+Telangana,Karimnagar,B,F,21
+Telangana,Karimnagar,A,M,40
+Telangana,Karimnagar,A,F,33
+Telangana,Karimnagar,C,M,12
+Telangana,Karimnagar,C,F,5
+Telangana,Gadwal,A,M,7
+Telangana,Gadwal,A,F,8
+Telangana,Gadwal,B,F,11
+Telangana,Gadwal,B,M,4
+Telangana,Gadwal,C,F,4
+Telangana,Gadwal,C,M,3
+Telangana,Yellandu,B,F,4
+Telangana,Yellandu,B,M,2
+Telangana,Yellandu,A,F,7
+Telangana,Yellandu,A,M,5
+Telangana,Yellandu,C,M,1
+Telangana,Suriapet,B,F,11
+Telangana,Suriapet,B,M,11
+Telangana,Suriapet,A,F,19
+Telangana,Suriapet,A,M,11
+Telangana,Suriapet,C,M,3
+Telangana,Suriapet,C,F,1
+Telangana,Armur,A,M,10
+Telangana,Armur,A,F,6
+Telangana,Armur,B,M,4
+Telangana,Armur,B,F,4
+Telangana,Armur,C,F,3
+Telangana,Armur,C,M,3
+Telangana,Secunderabad,A,M,35
+Telangana,Secunderabad,A,F,22
+Telangana,Secunderabad,C,M,10
+Telangana,Secunderabad,C,F,6
+Telangana,Secunderabad,B,M,10
+Telangana,Secunderabad,B,F,19
+Telangana,Paloncha,A,M,11
+Telangana,Paloncha,A,F,8
+Telangana,Paloncha,B,F,6
+Telangana,Paloncha,B,M,4
+Telangana,Paloncha,C,M,4
+Telangana,Paloncha,C,F,2
+Telangana,Jagtial,A,M,9
+Telangana,Jagtial,A,F,10
+Telangana,Jagtial,B,F,5
+Telangana,Jagtial,B,M,5
+Telangana,Jagtial,C,F,1
+Telangana,Jagtial,C,M,2
+Telangana,Mancheral,B,F,10
+Telangana,Mancheral,B,M,7
+Telangana,Mancheral,C,F,5
+Telangana,Mancheral,C,M,2
+Telangana,Mancheral,A,F,7
+Telangana,Mancheral,A,M,5
+Telangana,Ramgundam,B,M,17
+Telangana,Ramgundam,B,F,25
+Telangana,Ramgundam,A,M,34
+Telangana,Ramgundam,A,F,31
+Telangana,Ramgundam,C,M,6
+Telangana,Ramgundam,C,F,1
+Telangana,Nalgonda,A,M,21
+Telangana,Nalgonda,A,F,16
+Telangana,Nalgonda,C,F,7
+Telangana,Nalgonda,C,M,6
+Telangana,Nalgonda,B,M,12
+Telangana,Nalgonda,B,F,10
+Telangana,Koratla,A,F,9
+Telangana,Koratla,A,M,7
+Telangana,Koratla,B,F,7
+Telangana,Koratla,B,M,8
+Telangana,Koratla,C,F,4
+Telangana,Koratla,C,M,1
+Telangana,Bodhan,B,M,11
+Telangana,Bodhan,B,F,8
+Telangana,Bodhan,C,M,1
+Telangana,Bodhan,C,F,1
+Telangana,Bodhan,A,M,9
+Telangana,Bodhan,A,F,12
+Telangana,Adilabad,C,F,6
+Telangana,Adilabad,C,M,4
+Telangana,Adilabad,A,M,13
+Telangana,Adilabad,A,F,10
+Telangana,Adilabad,B,M,12
+Telangana,Adilabad,B,F,9
+Telangana,Nizamabad,A,F,51
+Telangana,Nizamabad,A,M,51
+Telangana,Nizamabad,B,F,27
+Telangana,Nizamabad,B,M,28
+Telangana,Nizamabad,C,M,13
+Telangana,Nizamabad,C,F,13
+Telangana,Wanparti,C,M,2
+Telangana,Wanparti,C,F,6
+Telangana,Wanparti,A,F,6
+Telangana,Wanparti,A,M,2
+Telangana,Wanparti,B,M,7
+Telangana,Wanparti,B,F,5
+Telangana,Sirsilla,C,M,3
+Telangana,Sirsilla,C,F,3
+Telangana,Sirsilla,A,M,17
+Telangana,Sirsilla,A,F,4
+Telangana,Sirsilla,B,F,10
+Telangana,Sirsilla,B,M,9
+Telangana,Kamareddipet,A,F,10
+Telangana,Kamareddipet,A,M,8
+Telangana,Kamareddipet,B,F,5
+Telangana,Kamareddipet,B,M,4
+Telangana,Kamareddipet,C,F,3
+Telangana,Kamareddipet,C,M,6
+Telangana,Mandamari,B,M,5
+Telangana,Mandamari,B,F,3
+Telangana,Mandamari,A,F,5
+Telangana,Mandamari,A,M,7
+Telangana,Mandamari,C,M,3
+Telangana,Devarkonda,A,M,5
+Telangana,Devarkonda,A,F,6
+Telangana,Devarkonda,B,M,2
+Telangana,Devarkonda,B,F,1
+Telangana,Devarkonda,C,F,1
+Telangana,Metpalli,A,M,7
+Telangana,Metpalli,A,F,7
+Telangana,Metpalli,B,F,4
+Telangana,Metpalli,B,M,2
+Telangana,Metpalli,C,M,3
+Telangana,Metpalli,C,F,2
+Telangana,Bodupal,B,M,5
+Telangana,Bodupal,B,F,1
+Telangana,Bodupal,A,M,6
+Telangana,Bodupal,A,F,6
+Telangana,Bodupal,C,M,2
+Telangana,Bodupal,C,F,1
+Telangana,Kothapet,A,M,11
+Telangana,Kothapet,A,F,4
+Telangana,Kothapet,B,M,8
+Telangana,Kothapet,B,F,4
+Telangana,Kothapet,C,M,2
+Telangana,Kothapet,C,F,3
+Telangana,Khammam,A,F,29
+Telangana,Khammam,A,M,25
+Telangana,Khammam,B,M,12
+Telangana,Khammam,B,F,15
+Telangana,Khammam,C,M,5
+Telangana,Khammam,C,F,7
+Telangana,Belampalli,A,M,7
+Telangana,Belampalli,A,F,4
+Telangana,Belampalli,B,M,6
+Telangana,Belampalli,B,F,6
+Telangana,Belampalli,C,F,2
+Telangana,Belampalli,C,M,2
+Telangana,Bhainsa,B,F,4
+Telangana,Bhainsa,B,M,3
+Telangana,Bhainsa,C,F,2
+Telangana,Bhainsa,C,M,2
+Telangana,Bhainsa,A,M,2
+Telangana,Bhainsa,A,F,4
+Telangana,Jangaon,C,F,2
+Telangana,Jangaon,C,M,2
+Telangana,Jangaon,A,M,4
+Telangana,Jangaon,A,F,1
+Telangana,Jangaon,B,M,4
+Telangana,Jangaon,B,F,2
+Telangana,Kottagudem,A,F,9
+Telangana,Kottagudem,A,M,9
+Telangana,Kottagudem,C,F,2
+Telangana,Kottagudem,B,F,4
+Telangana,Kottagudem,B,M,6
+Telangana,Jaggayyapeta,A,M,5
+Telangana,Jaggayyapeta,A,F,2
+Telangana,Jaggayyapeta,B,M,7
+Telangana,Jaggayyapeta,B,F,1
+Telangana,Jaggayyapeta,C,M,1
+Telangana,Mangur,A,M,7
+Telangana,Mangur,A,F,6
+Telangana,Mangur,B,F,1
+Telangana,Mangur,B,M,1
+Telangana,Mangur,C,M,2
+Punjab,Amritsar,A,M,155
+Punjab,Amritsar,A,F,113
+Punjab,Amritsar,B,F,114
+Punjab,Amritsar,B,M,84
+Punjab,Amritsar,C,F,49
+Punjab,Amritsar,C,M,49
+Punjab,Jalandhar,C,M,25
+Punjab,Jalandhar,C,F,27
+Punjab,Jalandhar,B,F,76
+Punjab,Jalandhar,B,M,76
+Punjab,Jalandhar,A,M,101
+Punjab,Jalandhar,A,F,130
+Punjab,Ludhiana,C,F,70
+Punjab,Ludhiana,C,M,68
+Punjab,Ludhiana,A,M,230
+Punjab,Ludhiana,A,F,202
+Punjab,Ludhiana,B,F,108
+Punjab,Ludhiana,B,M,134
+Punjab,Abohar,A,F,18
+Punjab,Abohar,A,M,15
+Punjab,Abohar,B,M,14
+Punjab,Abohar,B,F,18
+Punjab,Abohar,C,F,6
+Punjab,Abohar,C,M,3
+Punjab,Patiala,A,M,41
+Punjab,Patiala,A,F,39
+Punjab,Patiala,B,M,32
+Punjab,Patiala,B,F,25
+Punjab,Patiala,C,F,7
+Punjab,Patiala,C,M,7
+Punjab,Haripur,A,F,14
+Punjab,Haripur,A,M,27
+Punjab,Haripur,B,F,26
+Punjab,Haripur,B,M,17
+Punjab,Haripur,C,M,9
+Punjab,Haripur,C,F,9
+Punjab,Mauli,B,M,12
+Punjab,Mauli,B,F,16
+Punjab,Mauli,A,M,13
+Punjab,Mauli,A,F,15
+Punjab,Mauli,C,M,3
+Punjab,Mauli,C,F,4
+Punjab,Malaut,C,F,3
+Punjab,Malaut,C,M,3
+Punjab,Malaut,B,F,3
+Punjab,Malaut,B,M,4
+Punjab,Malaut,A,M,7
+Punjab,Malaut,A,F,6
+Punjab,Pathankot,A,F,18
+Punjab,Pathankot,A,M,16
+Punjab,Pathankot,C,M,7
+Punjab,Pathankot,C,F,5
+Punjab,Pathankot,B,F,17
+Punjab,Pathankot,B,M,8
+Chandigarh,Chandigarh,C,F,40
+Chandigarh,Chandigarh,C,M,35
+Chandigarh,Chandigarh,A,M,134
+Chandigarh,Chandigarh,A,F,130
+Chandigarh,Chandigarh,B,M,67
+Chandigarh,Chandigarh,B,F,85
+Jharkhand,Chakradharpur,B,M,15
+Jharkhand,Chakradharpur,B,F,15
+Jharkhand,Chakradharpur,A,F,18
+Jharkhand,Chakradharpur,A,M,21
+Jharkhand,Chakradharpur,C,F,13
+Jharkhand,Chakradharpur,C,M,14
+Jharkhand,Jamshedpur,A,F,181
+Jharkhand,Jamshedpur,A,M,184
+Jharkhand,Jamshedpur,C,M,62
+Jharkhand,Jamshedpur,C,F,49
+Jharkhand,Jamshedpur,B,M,118
+Jharkhand,Jamshedpur,B,F,135
+Jharkhand,Dhanbad,A,F,131
+Jharkhand,Dhanbad,A,M,131
+Jharkhand,Dhanbad,C,F,49
+Jharkhand,Dhanbad,C,M,46
+Jharkhand,Dhanbad,B,F,98
+Jharkhand,Dhanbad,B,M,105
+Jharkhand,Ranchi,A,M,119
+Jharkhand,Ranchi,A,F,127
+Jharkhand,Ranchi,B,F,82
+Jharkhand,Ranchi,B,M,99
+Jharkhand,Ranchi,C,M,32
+Jharkhand,Ranchi,C,F,31
+Tripura,Agartala,A,F,62
+Tripura,Agartala,A,M,60
+Tripura,Agartala,C,M,22
+Tripura,Agartala,C,F,17
+Tripura,Agartala,B,M,41
+Tripura,Agartala,B,F,51
+Jammu and Kashmir,Jammu,A,M,73
+Jammu and Kashmir,Jammu,A,F,50
+Jammu and Kashmir,Jammu,B,M,37
+Jammu and Kashmir,Jammu,B,F,56
+Jammu and Kashmir,Jammu,C,F,25
+Jammu and Kashmir,Jammu,C,M,13
+Jammu and Kashmir,Srinagar,A,F,151
+Jammu and Kashmir,Srinagar,A,M,150
+Jammu and Kashmir,Srinagar,C,M,45
+Jammu and Kashmir,Srinagar,C,F,35
+Jammu and Kashmir,Srinagar,B,F,95
+Jammu and Kashmir,Srinagar,B,M,80
+Jammu and Kashmir,Sopur,B,M,18
+Jammu and Kashmir,Sopur,B,F,9
+Jammu and Kashmir,Sopur,A,F,14
+Jammu and Kashmir,Sopur,A,M,12
+Jammu and Kashmir,Sopur,C,F,1
+Jammu and Kashmir,Sopur,C,M,10
+Jammu and Kashmir,Baramula,A,M,30
+Jammu and Kashmir,Baramula,A,F,19
+Jammu and Kashmir,Baramula,B,F,17
+Jammu and Kashmir,Baramula,B,M,10
+Jammu and Kashmir,Baramula,C,M,3
+Jammu and Kashmir,Baramula,C,F,3
+Jammu and Kashmir,Handwara,A,M,23
+Jammu and Kashmir,Handwara,A,F,41
+Jammu and Kashmir,Handwara,C,F,8
+Jammu and Kashmir,Handwara,C,M,9
+Jammu and Kashmir,Handwara,B,F,24
+Jammu and Kashmir,Handwara,B,M,14
+Jammu and Kashmir,Kulgam,A,M,2
+Jammu and Kashmir,Kulgam,A,F,3
+Jammu and Kashmir,Kulgam,C,M,1
+Jammu and Kashmir,Kulgam,B,M,1
+Jammu and Kashmir,Kulgam,B,F,2
+Jammu and Kashmir,Rajaori,A,M,10
+Jammu and Kashmir,Rajaori,A,F,6
+Jammu and Kashmir,Rajaori,C,M,2
+Jammu and Kashmir,Rajaori,C,F,2
+Jammu and Kashmir,Rajaori,B,M,6
+Jammu and Kashmir,Rajaori,B,F,4
+Jammu and Kashmir,Bandipura,B,F,3
+Jammu and Kashmir,Bandipura,B,M,3
+Jammu and Kashmir,Bandipura,A,M,1
+Jammu and Kashmir,Bandipura,A,F,4
+Jammu and Kashmir,Udhampur,B,M,3
+Jammu and Kashmir,Udhampur,B,F,2
+Jammu and Kashmir,Udhampur,A,M,4
+Jammu and Kashmir,Udhampur,A,F,5
+Jammu and Kashmir,Udhampur,C,F,1
+Chhattisgarh,Bhilai,B,F,97
+Chhattisgarh,Bhilai,B,M,87
+Chhattisgarh,Bhilai,A,F,137
+Chhattisgarh,Bhilai,A,M,132
+Chhattisgarh,Bhilai,C,M,47
+Chhattisgarh,Bhilai,C,F,40
+Chhattisgarh,Raipur,B,F,81
+Chhattisgarh,Raipur,B,M,74
+Chhattisgarh,Raipur,A,M,129
+Chhattisgarh,Raipur,A,F,117
+Chhattisgarh,Raipur,C,F,35
+Chhattisgarh,Raipur,C,M,45
+Chhattisgarh,Drug,C,F,10
+Chhattisgarh,Drug,C,M,14
+Chhattisgarh,Drug,A,M,35
+Chhattisgarh,Drug,A,F,35
+Chhattisgarh,Drug,B,F,20
+Chhattisgarh,Drug,B,M,15
+Chhattisgarh,Bilaspur,A,M,33
+Chhattisgarh,Bilaspur,A,F,41
+Chhattisgarh,Bilaspur,B,M,25
+Chhattisgarh,Bilaspur,B,F,30
+Chhattisgarh,Bilaspur,C,M,17
+Chhattisgarh,Bilaspur,C,F,10
+Odisha,Bhubaneshwar,A,M,94
+Odisha,Bhubaneshwar,A,F,109
+Odisha,Bhubaneshwar,B,F,56
+Odisha,Bhubaneshwar,B,M,67
+Odisha,Bhubaneshwar,C,F,29
+Odisha,Bhubaneshwar,C,M,33
+Odisha,Brahmapur,A,F,44
+Odisha,Brahmapur,A,M,35
+Odisha,Brahmapur,B,M,33
+Odisha,Brahmapur,B,F,27
+Odisha,Brahmapur,C,F,21
+Odisha,Brahmapur,C,M,6
+Odisha,Cuttack,C,M,31
+Odisha,Cuttack,C,F,21
+Odisha,Cuttack,A,M,71
+Odisha,Cuttack,A,F,74
+Odisha,Cuttack,B,F,49
+Odisha,Cuttack,B,M,40
+Odisha,Sambalpur,C,M,16
+Odisha,Sambalpur,C,F,20
+Odisha,Sambalpur,A,M,38
+Odisha,Sambalpur,A,F,38
+Odisha,Sambalpur,B,M,23
+Odisha,Sambalpur,B,F,27
+Odisha,Raurkela,B,F,43
+Odisha,Raurkela,B,M,57
+Odisha,Raurkela,A,M,65
+Odisha,Raurkela,A,F,89
+Odisha,Raurkela,C,M,15
+Odisha,Raurkela,C,F,22
+Odisha,Puri,B,M,14
+Odisha,Puri,B,F,14
+Odisha,Puri,A,M,18
+Odisha,Puri,A,F,32
+Odisha,Puri,C,M,5
+Odisha,Puri,C,F,6
+Odisha,Jatani,A,M,8
+Odisha,Jatani,A,F,3
+Odisha,Jatani,B,F,4
+Odisha,Jatani,B,M,3
+Odisha,Jatani,C,M,3
+Uttarakhand,Dehra Dun,B,M,57
+Uttarakhand,Dehra Dun,B,F,32
+Uttarakhand,Dehra Dun,A,M,77
+Uttarakhand,Dehra Dun,A,F,60
+Uttarakhand,Dehra Dun,C,M,13
+Uttarakhand,Dehra Dun,C,F,20
+Uttarakhand,Naini Tal,A,M,5
+Uttarakhand,Naini Tal,A,F,11
+Uttarakhand,Naini Tal,B,M,2
+Uttarakhand,Naini Tal,C,M,1
+Mizoram,Aizawl,B,M,23
+Mizoram,Aizawl,B,F,18
+Mizoram,Aizawl,C,F,10
+Mizoram,Aizawl,C,M,8
+Mizoram,Aizawl,A,F,29
+Mizoram,Aizawl,A,M,28
+Arunachal Pradesh,Itanagar,A,F,5
+Arunachal Pradesh,Itanagar,A,M,10
+Arunachal Pradesh,Itanagar,B,F,4
+Arunachal Pradesh,Itanagar,B,M,4
+Arunachal Pradesh,Itanagar,C,F,1
+Manipur,Imphal,A,F,37
+Manipur,Imphal,A,M,31
+Manipur,Imphal,C,F,14
+Manipur,Imphal,C,M,5
+Manipur,Imphal,B,F,35
+Manipur,Imphal,B,M,20
+Meghalaya,Shillong,B,M,14
+Meghalaya,Shillong,B,F,12
+Meghalaya,Shillong,A,F,22
+Meghalaya,Shillong,A,M,10
+Meghalaya,Shillong,C,M,9
+Meghalaya,Shillong,C,F,3
+Andaman and Nicobar Islands,Port Blair,A,F,13
+Andaman and Nicobar Islands,Port Blair,A,M,8
+Andaman and Nicobar Islands,Port Blair,B,F,11
+Andaman and Nicobar Islands,Port Blair,B,M,10
+Andaman and Nicobar Islands,Port Blair,C,M,7
+Andaman and Nicobar Islands,Port Blair,C,F,4
+Goa,Curchorem,A,F,2
+Goa,Curchorem,A,M,3
+Goa,Curchorem,B,M,4
+Goa,Curchorem,B,F,2
+Goa,Curchorem,C,F,2
+Goa,Panaji,C,F,1
+Goa,Panaji,C,M,1
+Goa,Panaji,B,F,9
+Goa,Panaji,B,M,5
+Goa,Panaji,A,F,3
+Goa,Panaji,A,M,1
+Sikkim,Gangtok,A,M,20
+Sikkim,Gangtok,A,F,17
+Sikkim,Gangtok,B,F,10
+Sikkim,Gangtok,B,M,4
+Sikkim,Gangtok,C,M,5
+Sikkim,Gangtok,C,F,3
+Dadra and Nagar Haveli,Silvassa,B,M,2
+Dadra and Nagar Haveli,Silvassa,C,M,1
+Dadra and Nagar Haveli,Silvassa,A,M,3
+Dadra and Nagar Haveli,Silvassa,A,F,1
+Puducherry,Puducherry,C,F,8
+Puducherry,Puducherry,C,M,6
+Puducherry,Puducherry,A,M,19
+Puducherry,Puducherry,A,F,21
+Puducherry,Puducherry,B,F,14
+Puducherry,Puducherry,B,M,12
+Lakshadweep,Kavaratti,A,F,1
+Lakshadweep,Kavaratti,A,M,1
+Lakshadweep,Kavaratti,B,M,3
+Himachal Pradesh,Shimla,C,M,5
+Himachal Pradesh,Shimla,C,F,7
+Himachal Pradesh,Shimla,A,F,21
+Himachal Pradesh,Shimla,A,M,27
+Himachal Pradesh,Shimla,B,F,13
+Himachal Pradesh,Shimla,B,M,19
+Himachal Pradesh,Solan,B,M,7
+Himachal Pradesh,Solan,B,F,2
+Himachal Pradesh,Solan,A,F,4
+Himachal Pradesh,Solan,A,M,1
+Himachal Pradesh,Solan,C,F,2
+Nagaland,Kohima,B,F,9
+Nagaland,Kohima,B,M,7
+Nagaland,Kohima,A,F,9
+Nagaland,Kohima,A,M,8
+Nagaland,Kohima,C,M,5
+Nagaland,Kohima,C,F,4
+Daman and Diu,Diu,A,M,2
+Daman and Diu,Diu,A,F,2
+Daman and Diu,Diu,B,F,1
+Daman and Diu,Diu,B,M,1
+Daman and Diu,Diu,C,F,1

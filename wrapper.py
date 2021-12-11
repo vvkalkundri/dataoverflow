@@ -1,5 +1,5 @@
 # DO NOT MODIFY this script
-from code.script import covid_vaccine
+from src.script import covid_vaccine
 from argparse import ArgumentParser
 from tests.test import TestCovidVaccine
 import os
